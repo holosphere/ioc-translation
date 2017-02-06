@@ -1,8 +1,8 @@
 # ioc-translation
 
-Every page of our site is in a folder, and inside this folder are the folders for the different parts of that page.
+Every page of our site sits in a folder on https://github.org/holosphere/ioc-translation, and inside this folder are the folders for the different parts of that page.
 
-Add a translation file by copying whatever.en.md to whatever.XY.md 
+Add a translation option by copying mypage.en.md to mypage.XY.md 
 
 (Where XY is the language code of your translated country/language, e.g. ru for Russion, cn for Chinese, etc.)
 
@@ -11,3 +11,7 @@ When a translator shows up for the job, create an issue that refers to the langu
 Example issue text: Translate English to Russian (all .ru.md files) appointed to @Russki
 
 (They need to create their own free github account and give you their github nickname, so you can allow them into the translation repo.)
+
+Once the translation is done, the translator comments on the issue saying: "I'm done for review"
+
+When the editor (you) approves the translation, you can close the issue.
