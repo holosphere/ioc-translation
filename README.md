@@ -10,7 +10,7 @@ When a translator shows up for the job, create an issue that refers to the langu
 
 Example issue text: Translate English to Russian (all .ru.md files) appointed to @Russki
 
-(They need to create their own free github account and give you their github nickname, so you can allow them into the translation repo.)
+(They need to create their own free github account and give you their github nickname, so you can allow them into the translation repo. The @Russki makes sure Russki is notified of the issue on his email account - the one (s)he linked to github.)
 
 Once the translation is done, the translator comments on the issue saying: "I'm done for review"
 
