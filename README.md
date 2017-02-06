@@ -1,6 +1,6 @@
 # ioc-translation
 
-Every page of our site sits in a folder on https://github.org/holosphere/ioc-translation, and inside this folder are the folders for the different parts of that page.
+Every page of our site sits in a folder on https://github.org/ioc-translator/ioc-translation, and inside this folder are the folders for the different parts of that page.
 
 Add a translation option by copying mypage.en.md to mypage.XY.md 
 
