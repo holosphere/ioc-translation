@@ -6,6 +6,8 @@ Add a translation option by copying mypage.en.md to mypage.XY.md
 
 (Where XY is the language code of your translated country/language, e.g. ru for Russion, cn for Chinese, etc.)
 
+(I sent you all the steps 1-10 in screenshots to robs email account. Will also forward to the translation gmail account.)
+
 When a translator shows up for the job, create an issue that refers to the language or file that has to be translated and assign this issue to a translator explicitly in the issue. This will be our official assignment of a translation to a certain translator. 
 
 Example issue text: Translate English to Russian (all .ru.md files) appointed to @Russki
