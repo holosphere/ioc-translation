@@ -58,6 +58,20 @@ people:
                 title: twitter
                 url: 'https://twitter.com/rznag'
     -
+        name: 'Aymeric Vitte'
+        pic: 13.jpg
+        position: Researcher
+        social:
+            -
+                title: github
+                url: 'https://github.com/Ayms'
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/aymeric-vitte-05855b26'
+            -
+                title: twitter
+                url: 'https://twitter.com/p2peersm'
+    -
         name: 'Jelle Herold'
         pic: 4.jpg
         position: Cryptographer
@@ -86,20 +100,9 @@ people:
                 title: twitter
                 url: 'https://twitter.com/sergeykazenyuk'
     -
-        name: 'Pim Weltevrede'
-        pic: 8.jpg
-        position: Marketeer
-        social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/pimweltevrede'
-            -
-                title: twitter
-                url: 'https://twitter.com/Weltevrede_IT'
-    -
         name: 'Marjon Riehl'
         pic: 10.jpg
-        position: 'Translations Coordinator'
+        position: 'Translation Coordinator'
         social:
             -
                 title: linkedin
@@ -107,6 +110,20 @@ people:
             -
                 title: twitter
                 url: 'https://twitter.com/Marjon1990'
+    -
+        name: 'Pim Weltevrede'
+        pic: 8.jpg
+        position: Marketeer
+        social:
+            -
+                title: github
+                url: 'https://github.com/poeboe'
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/pimweltevrede'
+            -
+                title: twitter
+                url: 'https://twitter.com/Weltevrede_IT'
     -
         name: 'Matthias Klees'
         pic: 6.jpg
@@ -123,6 +140,9 @@ people:
         pic: 11.jpg
         position: 'Project Manager'
         social:
+            -
+                title: github
+                url: 'https://github.com/mcgeorge'
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/georgezeeman'
