@@ -1,5 +1,4 @@
 ---
-title: Home
 content:
     items: '@self.modular'
     order:
@@ -7,6 +6,8 @@ content:
         dir: asc
         custom:
             - _header
+            - _mentions
+            - _signup
             - _part1
             - _part2
             - _part3
@@ -16,7 +17,8 @@ menu: Home
 onpage_menu: true
 form:
     name: contact
-    action: /home
+    action: mail.php
+    method: GET
     fields:
         -
             name: name
@@ -40,7 +42,7 @@ form:
         -
             name: message
             label: Message
-            placeholder: 'Enter your message'
+            placeholder: 'Please keep me informed! (Or write us in your own words)'
             type: textarea
             classes: form-control
             position: right
@@ -50,7 +52,7 @@ form:
         -
             type: submit
             classes: 'btn btn-primary btn-lg'
-            value: Submit
+            value: Send
     process:
         -
             email:
