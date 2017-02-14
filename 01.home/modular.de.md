@@ -24,7 +24,7 @@ form:
             name: name
             label: Name
             classes: form-control
-            placeholder: 'Enter your name'
+            placeholder: 'Dein Name'
             autocomplete: 'on'
             type: text
             position: left
@@ -34,7 +34,7 @@ form:
             name: email
             label: Email
             classes: form-control
-            placeholder: 'Enter your email address'
+            placeholder: 'Deine Email Adresse'
             type: email
             position: left
             validate:
@@ -42,7 +42,7 @@ form:
         -
             name: message
             label: Message
-            placeholder: 'Please keep me informed! (Or write us in your own words)'
+            placeholder: 'Bitte haltet mich auf dem laufenden! (Oder schreib uns dein Anliegen)'
             type: textarea
             classes: form-control
             position: right
@@ -59,6 +59,6 @@ form:
                 subject: '[Site Contact Form] {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
-            message: 'Thank you for getting in touch!'
+            message: 'Danke für die Anfrage!'
 ---
 
