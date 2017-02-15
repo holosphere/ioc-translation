@@ -28,7 +28,7 @@ buttons:
 <br><br>
 
 <span class="column-left small" style="height: 13em;"> ![Users love different coins, and should have the freedom to choose.](love_coins.svg) </span><span class="column-right">
-<b>Existierende Wallets benötigen keine Änderungen or Anpassungen um ihre Blockchain und ihr Wertsystem in dieses autonome dezentralisierte Netzwerk integrieren zu können.</b><br><br>Die aktuellen Entwicklungen bezüglich Kryptowährungen schäumen bereits über vor Kreavitität. Wir wollen das diese Entwicklungen flächendeckend und parallel weiter gehen ohne eine künstliche Limitierung einzuführen. 
+<b>Existierende Wallets benötigen keine Änderungen oder Anpassungen um ihre Blockchain und ihr Wertsystem in dieses autonome dezentralisierte Netzwerk integrieren zu können.</b><br><br>Die aktuellen Entwicklungen bezüglich Kryptowährungen schäumen bereits über vor Kreavitität. Wir wollen das diese Entwicklungen flächendeckend und parallel weiter gehen ohne eine künstliche Limitierung einzuführen. 
 </span>
 
 <br><br>
