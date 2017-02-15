@@ -7,7 +7,7 @@ menu: part2
 ### De blockchain werd bedacht voor financiële autonomie
 
 <span class="column-left">
-De huidige cryptocurrecy scene is gefragmenteerd en loopt het risico om financieel en politiek gecentraliseerd te worden. Net als wij, will veel blockchain enthousiastelingen dat liever niet zien gebeuren.<br><br>Machtige financiële actoren willen vaak slechts winsten oogsten door zaken te doen in de cyptocurrency wereld. Ook al geloven wij dat dit een logische consequentie is van de evolutie van cryptocurrencies, we zijn er ook van overtuigd dat dit geen negatieve invloed moet hebben op de fundamentele vrijheden van gebruikers en ontwikkelaars van cryptocurrencies.
+De huidige cryptocurrency scene is gefragmenteerd en loopt het risico om financieel en politiek gecentraliseerd te worden. Net als wij, willen veel blockchain enthousiastelingen dat liever niet zien gebeuren.<br><br>Machtige financiële actoren willen vaak slechts winsten oogsten met zaken doen in de cyptocurrency wereld. Ook al geloven wij dat dit een logische consequentie is van de evolutie van cryptocurrencies, we zijn er ook van overtuigd dat dit geen negatieve invloed moet hebben op de fundamentele vrijheden van gebruikers en ontwikkelaars van cryptocurrencies.
 </span><span class="column-right small" style="height: 14em;">![Bullhorn](bullhorn.svg "Join us in taking the financial world by storm!")</span>
 
 <br><br>
