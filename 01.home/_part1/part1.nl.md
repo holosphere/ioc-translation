@@ -26,9 +26,9 @@ buttons:
 <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> is een gedecentraliseerd platform dat het mogelijk maakt
 om een optimaal inclusief netwerk op te zetten, dat alle digitale waarde tokes met elkaar verbindt.
 
-Ons doel is om alle [token waarde systemen](https:/coinmarketcap.com) met elkaar te verbinden in een onderling verweven en financieel liquide web.
-<br><br>In de afgelopen twee jaar is voor dit systeem de basis gelegd door een team van specialisten die hun tijd doneren aan aan het maken van een innovatieve open source token-waarde netwerk agent genaamd <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, de uitgebreide versie met alle modules maakt het mogelijk om alle cryptotokens met elkaar te verbinden.
-</span><span class="column-right small" style="height: 13em;"> ![No cryptocurrencies left behind!](power_system.svg) </span>
+Ons doel is om alle [token waarde systemen](https:/coinmarketcap.com) met elkaar te verbinden in een onderling verweven en financieel liquide web.</span><span class="column-right small" style="height: 13em;"> ![No cryptocurrencies left behind!](power_system.svg) </span>
+<br><br>
+In de afgelopen twee jaar is voor dit systeem de basis gelegd door een team van specialisten die hun tijd doneren aan aan het maken van een innovatieve open source token-waarde netwerk agent genaamd <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, de uitgebreide versie met alle modules maakt het mogelijk om alle cryptotokens met elkaar te verbinden.
 <br><br>
 
 <span class="column-left small" style="height: 13em;"> ![Users love different coins, and should have the freedom to choose.](love_coins.svg) </span><span class="column-right">
