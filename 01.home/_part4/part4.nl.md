@@ -11,7 +11,7 @@ abouts:
         img: 2.jpg
         heading: '2012'
         subheading: 'Aanvankelijke deelname aan de crypto markten'
-        body: 'Nadat we de opkomst van de cryptomarkten hadden gezien, vanaf de vrijgave van Bitcoin in 2009, erkende wij het potentieel van deze disruptive technologie. Onze team leden werkten samen met opkomende altcoins en exchanges, en hielpen bij het opzetten van mining voor andere partijen. We verkregen een grondige kennis van de technologiëen achter crypto-platformen en blockchain datatechnologie.
+        body: 'Nadat we de opkomst van de cryptomarkten hadden gezien, vanaf de vrijgave van Bitcoin in 2009, erkende wij het potentieel van deze disruptive technologie. Onze team leden werkten samen met opkomende altcoins en exchanges, en hielpen bij het opzetten van mining voor andere partijen. We verkregen een grondige kennis van de technologiëen achter crypto-platformen en blockchain datatechnologie.'
         align: inverted
     -
         img: 4.jpg
