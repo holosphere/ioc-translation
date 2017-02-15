@@ -5,7 +5,7 @@ abouts:
         img: 1.jpg
         heading: 2006-2011
         subheading: 'Unser bescheidener Anfang'
-        body: 'Als wir begannen, sammelten Mitglieder des Teams weitreichende Erfahrungen in finanziellen Märkten, einschließlich Foreign Exchange, Commodity trading und Handel mit Gold. Wir programmierten automatische Handelsplattformen, testeten frühe elektronische Assetsysteme und entwickelten eine Mulit Asset Handels Infrastruktur. Ständiger Kontakt mit realen und Krisenmärkten in dieser wichtigen Phase stärkte unseren Glauben das ein neuer Ansatz für persönliche Finanzen notwendig ist, um ökonomischen Wachstum wieder in Deine und meine Hände zu legen. '
+        body: 'Als wir begannen, sammelten Mitglieder des Teams weitreichende Erfahrungen in finanziellen Märkten, einschließlich Foreign Exchange, Commodity trading und Handel mit Gold. Wir programmierten automatische Handelsplattformen, testeten frühe elektronische Assetsysteme und entwickelten eine Multi Asset Handels Infrastruktur. Ständiger Kontakt mit realen und Krisenmärkten in dieser wichtigen Phase stärkte unseren Glauben das ein neuer Ansatz für persönliche Finanzen notwendig ist, um ökonomischen Wachstum wieder in Deine und meine Hände zu legen. '
         align: image
     -
         img: 2.jpg
