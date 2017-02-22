@@ -4,7 +4,7 @@ cache_enable: false
 ---
 
 ## Ontvang het laatste nieuws
-### Help mee in de blockchain freedom (r)evolution!
+### Help mee in de blockchain vrijheids (r)evolutie!
 
 <big><b>Fundraiser begint op 21.03.2017 om 10:00 UTC (11u nederlandse tijd).</b></big>
 <br><br>
