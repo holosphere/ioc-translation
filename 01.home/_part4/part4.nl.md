@@ -46,7 +46,7 @@ abouts:
     -
         img: null
         heading: null
-        alttext: '<a class="page-scroll" href="#signup" style="color: #EEE; text-decoration: none;">Be Part<br />Of Our <br />Story!</a>'
+        alttext: '<a class="page-scroll" href="#signup" style="color: #EEE; text-decoration: none;">Wordt deel van ons <br />verhaal!</a>'
         subheading: null
         body: null
         align: inverted
