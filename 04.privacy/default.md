@@ -138,7 +138,7 @@ Specifically we use the following systems:
 <br />
 <h4>14. Cookies</h4>
 
-This website will not place cookies on your computer. Coinstorm.net does not wish to gather personal information about you, and recommends you to prevent the use of them in general, especially those provided by third parties.
+This website will not place tracking cookies on your computer. Coinstorm.net does not wish to gather personal information about you, and recommends you to prevent the use of them in general, especially those provided by third parties.
 
 You can choose to enable or disable cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party cookies. By default, most internet browsers accept cookies but this can be changed. For further details, please consult the help menu in your internet browser.
 
