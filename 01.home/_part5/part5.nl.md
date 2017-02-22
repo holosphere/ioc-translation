@@ -4,7 +4,7 @@ people:
     -
         name: 'Joachim de Koning'
         pic: 1.jpg
-        position: Stichter
+        position: Oprichter
         social:
             -
                 title: github
@@ -18,7 +18,7 @@ people:
     -
         name: 'Robert de Groot'
         pic: 2.jpg
-        position: Mede-stichter
+        position: Mede-oprichter
         social:
             -
                 title: github
