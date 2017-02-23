@@ -3,7 +3,7 @@ title: Header
 menu: Top
 buttons:
     -
-        text: 'mee doen!'
+        text: 'nu mee doen!'
         url: '#signup'
 ---
 
