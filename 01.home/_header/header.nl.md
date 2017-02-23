@@ -3,7 +3,7 @@ title: Header
 menu: Top
 buttons:
     -
-        text: 'laat het stormen!'
+        text: 'mee doen!'
         url: '#signup'
 ---
 
