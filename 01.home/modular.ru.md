@@ -42,7 +42,7 @@ form:
         -
             name: message
             label: Message
-            placeholder: 'Please keep me informed! (Or write us in your own words)'
+            placeholder: 'Пожайлуста, держите меня в курсе происходящего! (или напишите чего бы вы хотели своими словами)'
             type: textarea
             classes: form-control
             position: right

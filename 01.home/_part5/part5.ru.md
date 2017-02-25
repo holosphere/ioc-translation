@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Команда
 people:
     -
         name: 'Joachim de Koning'
@@ -160,5 +160,5 @@ people:
 description: ''
 ---
 
-## Team
-### The people driving the Internet of Coins project
+## Команда
+### Люди, работающие над проектом Internet of Coins
