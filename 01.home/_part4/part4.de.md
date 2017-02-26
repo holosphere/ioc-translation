@@ -43,7 +43,7 @@ abouts:
         subheading: 'Errichtung der Infrastruktur'
         body: 'Als das Projekt immer weiter wuchs, mieteten wir ein Büro, um mit dem Team an einem fixen Ort arbeiten zu können. Unser erster operativer Prototyp wurde in Holland von einer Gruppe Alpha-Testern getestet, um Sicherheit und einfache Benutzbarkeit sicher zu stellen. Die Gruppe versorgte uns mit Feedback zur Benutzererfahrungen unserer personalisierten Finanzumgebung und tut dies auch weiterhin. Matthias Klees (<a href="http://www.europecoin.eu.org" target="_blank">Europecoin</a>, <a href="http://www.bitsend.info" target="_blank">Bitsend</a>, <a href="https://www.localcrypto.eu.org" target="_blank">Localcrypto</a>, Blockchain Hotel) schloß sich unserem Projekt mit der <a href="http://www.federatedblockchains.eu.org" target="_blank">Federated Blockchains Initiative</a> an und die <a href="https://nlnet.nl/" target="_blank">NLnet Foundation</a> übernahm unsere Finanz~ und Rechts-.Beratung.'
         align: image
-    -
+      -
         img: null
         heading: null
         alttext: '<a class="page-scroll" href="#signup" style="color: #EEE; text-decoration: none;">Sei Teil<br />unserer <br />Geschichte!</a>'
@@ -52,6 +52,5 @@ abouts:
         align: inverted
 ---
 
-## Story
+## Geschichte
 ### Die Highlights unserer Entwicklung bis zum heutigen Tag
-
