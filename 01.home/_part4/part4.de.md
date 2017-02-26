@@ -52,6 +52,6 @@ abouts:
         align: inverted
 ---
 
-## Geschichte
+## Story
 ### Die Highlights unserer Entwicklung bis zum heutigen Tag
 
