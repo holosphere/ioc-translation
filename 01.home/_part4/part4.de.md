@@ -5,7 +5,7 @@ abouts:
         img: 1.jpg
         heading: 2006-2011
         subheading: 'Unser bescheidener Anfang'
-        body: 'Nachdem wir seit Bitcoin's Start in 2009, den Aufstieg der aufkeimenden Kryptowährungs-Märkte miterlebten, erkannten wir das Potential dieser revolutionären Technologie. Mitglieder unseres Teams arbeiteten mit aufkommenden Altcoins und Exchanges zusammen und vermittelten Mining Ausstattung an Dritte. Wir sammelten Wissen über die Technologien hinter den Kryptoplattformen und den Blockchain Plattformen. '
+        body: 'Nachdem wir seit Bitcoins Start in 2009, den Aufstieg der aufkeimenden Kryptowährungs-Märkte miterlebten, erkannten wir das Potential dieser revolutionären Technologie. Mitglieder unseres Teams arbeiteten mit aufkommenden Altcoins und Exchanges zusammen und vermittelten Mining Ausstattung an Dritte. Wir sammelten Wissen über die Technologien hinter den Kryptoplattformen und den Blockchain Plattformen. '
         align: image
     -
         img: 2.jpg
