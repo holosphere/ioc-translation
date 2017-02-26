@@ -1,15 +1,15 @@
 ---
-title: Что?
+title: Что это?
 menu: part1
 buttons:
     -
-        text: 'Sign up'
+        text: 'Подписаться'
         url: '#signup'
     -
         text: Whitepaper
         url: 'https://internetofcoins.org/public/uploads/whitepaper_ioc.pdf'
     -
-        text: Terms
+        text: Условия
         url: terms
     -
         text: FAQ
@@ -19,20 +19,20 @@ buttons:
         url: 'https://internetofcoins.org'
 ---
 
-## What
-### Interlinking all digital forms of value
+## Что это?
+### Связывание всех форм цифровых активов
 
 <span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> is an environment for personal finance. As a decentralized platform it enables an optimally inclusive financial network, interlinking all digital forms of value. It allows you to trade digital assets and currencies peer to peer, with an easy to use interface and the opportunity to earn fees by participating as an allocator.<br><br>In the past two years, the groundwork for this system has been implemented by a team that dedicates their time to the creation of an innovative open source financial networking agent called <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, that directly links crypto-ledgers together.
-</span><span class="column-right small" style="height: 13em;"> ![No cryptocurrencies left behind!](power_system.svg) </span>
+<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> – это среда для личных финансов. Децентрализованная платформа, связывающая все формы цифровых активов между собой. Она позволяет вам торговать и обмениваться цифровыми активами и валютами напрямую без посредника при помощи простого в использовании интерфейса, а также дает возможность зарабатывать на комиссии, если вы выступаете в роли аллокатора.<br><br>Основа этой системы была реализована в последние два года командой посвящающей свое время созданию инновационного финансового агента с открытым исходным кодом – <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, который напрямую связывает блокчейн, а также другие системы цифровых активов между собой.
+</span><span class="column-right small" style="height: 13em;"> ![Ни одна криптовалюта не останется в стороне!](power_system.svg) </span>
 <br><br>
 
-<span class="column-left small" style="height: 13em;"> ![Users love different coins, and should have the freedom to choose.](love_coins.svg) </span><span class="column-right">
-<b>Existing wallets need no changes or adaptations to allow their blockchains and value systems to be hooked into this autonomous decentralized network.</b><br><br>We want to integrate all token value systems into an interconnected and financially liquid web. The current developments in cryptocurrencies are already overflowing with creativity, and we'd love to see these developments continue without imposing any artificial or technical limitations.
+<span class="column-left small" style="height: 13em;"> ![Пользователям нравятся разные монеты и у них должна быть свобода выбора.](love_coins.svg) </span><span class="column-right">
+<b>Существующие кошельки не требуют изменений или иной адаптации для использования их блокчейн систем (или иных систем передачи стоимости) в автономной децентрализованной сети.</b><br><br>Мы хотим объединить между собой все системы передачи стоимости в паутину, обладающую финансовой ликвидностью. В последнее время появляется большое количество новых разработок и идей в области криптовалют. Мы не вносим никаких искусственных или технических ограничений, которые могли бы повлиять на возможность интеграции с финансовой паутиной.
 </span>
 
 <br><br>
 
-<b>Click on the buttons below to be informed about our fundraiser, read the FAQ, blog, whitepaper or look at our terms.</b>
+<b>Нажмите на одну из кнопок, если вы хотите быть в курсе кампании по сбору средств, ознакомится с часто задаваемыми вопросами о проекте, почитать блог, whitepaper, или условия инвестирования.</b>
 
 
