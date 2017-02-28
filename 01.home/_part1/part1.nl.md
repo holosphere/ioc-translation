@@ -33,7 +33,7 @@ In de afgelopen twee jaar is voor dit systeem de basis gelegd door een team van 
 
 <span class="column-left small" style="height: 13em;"> ![Users love different coins, and should have the freedom to choose.](love_coins.svg) </span><span class="column-right">
 <b>Bestaande wallets behoeven geen verandering of aanpassing van hun blockchains en waarde systemen om ingehaakt te kunnen worden
-in dit autonome decentrale netwerk.</b><br><br>De huidige ontwikkelingen in cryptocurrencies stromen reeds over met creativiteit. Dit zien we graag doorgaan over de gehele breedte en parallel, zonder kunstmatige grenzen op te leggen.
+in dit autonome decentrale netwerk.</b><br><br>Wij willen alle token waarde systemen in een onderling verbonden en financieel liquide web integreren. De huidige ontwikkelingen in cryptocurrencies stromen reeds over met creativiteit. Dit zien we graag doorgaan over de gehele breedte en parallel, zonder kunstmatige grenzen op te leggen.
 </span>
 
 <br><br>
