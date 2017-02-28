@@ -18,4 +18,4 @@ De huidige cryptocurrency scene is gefragmenteerd en loopt het risico om financi
 
 <br><br>
 
-<span class="column-center">Wij geloven dat het ons niet vooruit helpt om nog-een-systeem-dat-alles-beheerst te gaan bouwen. In plaats daarvan, menen wij, ligt de beste manier om vrijheid en recht voor deelnemers te garanderen in een onafhankelijk, losjes gekoppeld en autonoom ecosysteem.<br><br><b>Daarom hebben we Internet of Coins ontworpen om alle cryptocurrencies te kunnen ondersteunen.</b></span>
+<span class="column-center">Wij geloven dat het ons niet vooruit helpt om nog-een-systeem-dat-alles-beheerst te gaan bouwen. In plaats daarvan, menen wij, ligt de beste manier om vrijheid en recht voor deelnemers te garanderen in een onafhankelijk, losjes gekoppeld en autonoom ecosysteem.<br><br><b>Daarom hebben we Internet of Coins zo ontworpen dat alle cryptocurrencies te kunnen ondersteunen.</b></span>
