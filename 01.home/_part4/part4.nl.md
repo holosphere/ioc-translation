@@ -5,7 +5,7 @@ abouts:
         img: 1.jpg
         heading: 2006-2011
         subheading: 'Een nederig begin'
-        body: 'Toen we begonnen, verkregen diverse teamleden uitgebreide kennismaking met de financiële markten, inclusief valutahandel, commodity trading en goud investeringsmarkten. We programmeerden automatische trading platformen, testen vroege electronische waardesystemen en ontwikkelden multi-asset handelsinfrastructuur voor onze klanten. Onze exposure aan deze echte en de daarop volgende crisis marktomstandigheden in deze cruciale periode, droegen bij aan onze overtuiging dat een nieuwe blik op persoonlijke financiën nodig is om economische groei weer terug te brengen in de handen van jou en mij.'
+        body: 'Toen we begonnen, verkregen diverse teamleden uitgebreide kennismaking met de financiële markten, inclusief valutahandel, commodity trading en goud investeringsmarkten. We programmeerden automatische trading platformen, testten vroege electronische waardesystemen en ontwikkelden multi-asset handelsinfrastructuur voor onze klanten. Onze exposure aan deze echte en de daarop volgende crisis marktomstandigheden in deze cruciale periode, droegen bij aan onze overtuiging dat een nieuwe blik op persoonlijke financiën nodig is om economische groei weer terug te brengen in de handen van jou en mij.'
         align: image
     -
         img: 2.jpg
