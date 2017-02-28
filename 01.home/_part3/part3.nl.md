@@ -13,7 +13,7 @@ We hebben een platform gemaakt met een node-naar-node systeem dat <a href="https
 <br><br>
 
 <span class="column-left small" style="height: 15em;">![Bitcoin network](bitcoin_network.svg "We have taken the solid development and resilience of Bitcoin as an example.")</span><span class="column-right">
-Ons uiteindelijke doel is om elke cryptocurrency deel te laten worden van een gigantische zwerm van decentrale globale financiële interactie. Dit willen we bereiken door elke actor in het netwerk de mogelijkheid te geven waarde-tokens uit te geven en te beheren, de zogeheten hybrid assets, die waarde systemen en blockchains verbinden over marktgrenzen.<br><br><br> De code om dit alles mogelijk te maken zal open source gereleased worden, is beschikbaar op not-for-profit basis en vrij toegankelijk voor iedereen, om het onpartijdige en neutrale <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> mogelijk te maken.
+Ons uiteindelijke doel is om elke cryptocurrency deel te laten worden van een gigantische zwerm van decentrale globale financiële interactie. Dit willen we bereiken door elke actor in het netwerk de mogelijkheid te geven waarde-tokens uit te geven en te beheren, de zogeheten hybrid assets, die waarde systemen en blockchains verbinden over marktgrenzen.<br><br><br> De broncode om dit alles mogelijk te maken zal open source uitgegeven worden, is beschikbaar op not-for-profit basis en vrij toegankelijk voor iedereen, om het onpartijdige en neutrale <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> mogelijk te maken.
 
 <br><br>
 
