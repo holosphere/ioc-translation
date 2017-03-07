@@ -138,7 +138,7 @@ people:
     -
         name: 'George Zeeman'
         pic: 11.jpg
-        position: '项目经理
+        position: 项目经理
         social:
             -
                 title: github
