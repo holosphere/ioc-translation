@@ -16,7 +16,7 @@ abouts:
     -
         img: 4.jpg
         heading: '2013'
-        subheading: 'La Ampliación de la Cooperación’
+        subheading: 'La Ampliación de la Cooperación'
         body: 'Con el transcurso del tiempo, nuestro equipo gradualmente expandió la aceptación de los profesionales que conocemos por su trayectoria, aportando así más experiencia práctica en Fintech y criptografía. Participamos en un proyecto pionero para aplicar la tecnología de cadena de bloques en el sector energético y construimos un sistema de pasarela <i>Bitcoin-fiat</i>.'
         align: image
     -
@@ -46,7 +46,7 @@ abouts:
     -
         img: null
         heading: null
-        alttext: '<a class="page-scroll" href="#signup" style="color: #EEE; text-decoration: none;”>¡Sea Parte<br />De Nuestra <br />Historia!</a>'
+        alttext: '<a class="page-scroll" href="#signup" style="color: #EEE; text-decoration: none;">¡Sea Parte<br />De Nuestra <br />Historia!</a>'
         subheading: null
         body: null
         align: inverted
