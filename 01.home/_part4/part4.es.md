@@ -29,7 +29,7 @@ abouts:
         img: network.jpg
         heading: '2014'
         subheading: 'El Comienzo de Internet of Coins'
-        body: 'Tras el colapso de los principales intercambios centralizados, se hizo evidente la necesidad de un sistema de intercambio plenamente descentralizado. No empezamos con una (((((((((((((recaudación de fondos))))))))))))), ya que queríamos asegurar una infraestructura tecnológica madura para cumplir nuestras promesas. En su lugar, escribimos nuestro informe blanco y lanzamos el sitio Web <a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a>. <a href="https://bitalo.com/" target="_blank">Bitalo</a> nos apoyó con la primera donación en este período inicial.’
+        body: 'Tras el colapso de los principales intercambios centralizados, se hizo evidente la necesidad de un sistema de intercambio plenamente descentralizado. No empezamos con una (((((((((((((recaudación de fondos))))))))))))), ya que queríamos asegurar una infraestructura tecnológica madura para cumplir nuestras promesas. En su lugar, escribimos nuestro informe blanco y lanzamos el sitio Web <a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a>. <a href="https://bitalo.com/" target="_blank">Bitalo</a> nos apoyó con la primera donación en este período inicial.'
         align: image
     -
         img: recognize.jpg
