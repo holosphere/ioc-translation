@@ -1,6 +1,6 @@
 ---
 title: 故事
-关于:
+abouts:
     -
         img: 1.jpg
         heading: 2006-2011
