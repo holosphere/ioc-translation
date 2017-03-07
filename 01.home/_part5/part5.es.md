@@ -4,7 +4,7 @@ people:
     -
         name: 'Joachim de Koning'
         pic: 1.jpg
-        position: ‘Fundador’
+        position: 'Fundador'
         social:
             -
                 title: github
@@ -18,7 +18,7 @@ people:
     -
         name: 'Robert de Groot'
         pic: 2.jpg
-        position: ‘Cofundador’
+        position: 'Cofundador'
         social:
             -
                 title: github
@@ -32,7 +32,7 @@ people:
     -
         name: 'Amadeus de Koning'
         pic: 3.jpg
-        position: ‘Programador’
+        position: 'Programador'
         social:
             -
                 title: github
@@ -46,7 +46,7 @@ people:
     -
         name: 'Steffen Hoffmann'
         pic: 7.jpg
-        position: ‘Programador’
+        position: 'Programador'
         social:
             -
                 title: github
@@ -60,7 +60,7 @@ people:
     -
         name: 'Aymeric Vitte'
         pic: 13.jpg
-        position: ‘Investigador’
+        position: 'Investigador'
         social:
             -
                 title: github
@@ -74,7 +74,7 @@ people:
     -
         name: 'Jelle Herold'
         pic: 4.jpg
-        position: ‘Criptógrafo’
+        position: 'Criptógrafo'
         social:
             -
                 title: github
@@ -88,7 +88,7 @@ people:
     -
         name: 'Sergey Kazenyuk'
         pic: 5.jpg
-        position: ‘Ingeniero en Computación’
+        position: 'Ingeniero en Computación'
         social:
             -
                 title: github
@@ -102,7 +102,7 @@ people:
     -
         name: 'Marjon Riehl'
         pic: 10.jpg
-        position: ‘Coordinadora de Traducción’
+        position: 'Coordinadora de Traducción'
         social:
             -
                 title: linkedin
@@ -113,7 +113,7 @@ people:
     -
         name: 'Pim Weltevrede'
         pic: 8.jpg
-        position: ‘Mercadotécnico’
+        position: 'Mercadotécnico'
         social:
             -
                 title: github
@@ -127,7 +127,7 @@ people:
     -
         name: 'Matthias Klees'
         pic: 6.jpg
-        position: ‘Evangelista’
+        position: 'Evangelista'
         social:
             -
                 title: linkedin
@@ -138,7 +138,7 @@ people:
     -
         name: 'George Zeeman'
         pic: 11.jpg
-        position: ‘Gerente de Proyecto’
+        position: 'Gerente de Proyecto'
         social:
             -
                 title: github
@@ -152,7 +152,7 @@ people:
     -
         name: 'Marietje Kardaun'
         pic: 12.jpg
-        position: 'Consejera’
+        position: 'Consejera'
         social:
             -
                 title: linkedin

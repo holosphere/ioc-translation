@@ -10,14 +10,14 @@ abouts:
     -
         img: 2.jpg
         heading: '2012'
-        subheading: ‘La Participación Inicial en los Mercados Criptográficos'
-        body: 'Habiendo observado el auge de los mercados emergentes de criptocercas desde el lanzamiento de Bitcoin en 2009, hemos reconocido el potencial de esta tecnología disruptiva. Nuestros miembros del equipo trabajaron con <i>altcoins</i> emergentes e intercambios y proporcionaron equipo de minería a terceros. Hemos adquirido un conocimiento profundo de las tecnologías detrás de las plataformas criptográficas y de cadenas de bloques.’
+        subheading: 'La Participación Inicial en los Mercados Criptográficos'
+        body: 'Habiendo observado el auge de los mercados emergentes de criptocercas desde el lanzamiento de Bitcoin en 2009, hemos reconocido el potencial de esta tecnología disruptiva. Nuestros miembros del equipo trabajaron con <i>altcoins</i> emergentes e intercambios y proporcionaron equipo de minería a terceros. Hemos adquirido un conocimiento profundo de las tecnologías detrás de las plataformas criptográficas y de cadenas de bloques.'
         align: inverted
     -
         img: 4.jpg
         heading: '2013'
-        subheading: ‘La Ampliación de la Cooperación’
-        body: 'Con el transcurso del tiempo, nuestro equipo gradualmente expandió la aceptación de los profesionales que conocemos por su trayectoria, aportando así más experiencia práctica en Fintech y criptografía. Participamos en un proyecto pionero para aplicar la tecnología de cadena de bloques en el sector energético y construimos un sistema de pasarela <i>Bitcoin-fiat</i>.’
+        subheading: 'La Ampliación de la Cooperación’
+        body: 'Con el transcurso del tiempo, nuestro equipo gradualmente expandió la aceptación de los profesionales que conocemos por su trayectoria, aportando así más experiencia práctica en Fintech y criptografía. Participamos en un proyecto pionero para aplicar la tecnología de cadena de bloques en el sector energético y construimos un sistema de pasarela <i>Bitcoin-fiat</i>.'
         align: image
     -
         img: stormwind.jpg
@@ -28,14 +28,14 @@ abouts:
     -
         img: network.jpg
         heading: '2014'
-        subheading: ‘El Comienzo de Internet of Coins'
+        subheading: 'El Comienzo de Internet of Coins'
         body: 'Tras el colapso de los principales intercambios centralizados, se hizo evidente la necesidad de un sistema de intercambio plenamente descentralizado. No empezamos con una (((((((((((((recaudación de fondos))))))))))))), ya que queríamos asegurar una infraestructura tecnológica madura para cumplir nuestras promesas. En su lugar, escribimos nuestro informe blanco y lanzamos el sitio Web <a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a>. <a href="https://bitalo.com/" target="_blank">Bitalo</a> nos apoyó con la primera donación en este período inicial.’
         align: image
     -
         img: recognize.jpg
         heading: '2015'
-        subheading: 'Reconocimiento del Proyecto’
-        body: ‘En el sexto cumpleaños de <a href="https://bitcoin.com/" target="_blank">Bitcoin''s</a>, publicamos nuestro informe blanco, presentado en varias conferencias de criptomoneda en toda Europa y hicimos un <i>pitch</i> en <a href="https://www.startupbootcamp.org/" target="_blank">Startup Bootcamp Fintech</a>. El fondo Neerlandés <a href="https://www.sidnfonds.nl/excerpt/" target="_blank">SIDN Fund</a> aprobó nuestro proyecto sin fines de lucro con un <i>Pioneer Award</i> como una "adición a un Internet libre e independiente" y proporcionó los fondos para su desarrollo adicional.’
+        subheading: 'Reconocimiento del Proyecto'
+        body: ‘En el sexto cumpleaños de <a href="https://bitcoin.com/" target="_blank">Bitcoin''s</a>, publicamos nuestro informe blanco, presentado en varias conferencias de criptomoneda en toda Europa y hicimos un <i>pitch</i> en <a href="https://www.startupbootcamp.org/" target="_blank">Startup Bootcamp Fintech</a>. El fondo Neerlandés <a href="https://www.sidnfonds.nl/excerpt/" target="_blank">SIDN Fund</a> aprobó nuestro proyecto sin fines de lucro con un <i>Pioneer Award</i> como una "adición a un Internet libre e independiente" y proporcionó los fondos para su desarrollo adicional.'
         align: inverted
     -
         img: Smithy.jpg
