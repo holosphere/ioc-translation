@@ -27,7 +27,7 @@ buttons:
 </span><span class="column-right small" style="height: 13em;"> ![Power system](power_system.svg "不遗漏一个加密货币!") </span>
 <br><br>
 
-<span class="column-left small" style="height: 13em;"> ![Love coins](love_coins.svg "用户喜欢不同的虚拟币，他们有自由选择的权利") </span><span class="column-right">
+<span class="column-left small" style="height: 13em;"> ![Love for coins](love_coins.svg "用户喜欢不同的虚拟币，他们有自由选择的权利") </span><span class="column-right">
 <b>现有钱包无需变更或适应即可允许其区块链和价值体系连接到这个分散的网络系统中来。</b><br><br>我们希望将这些令牌系统集成到这个相互关联的经济网形成一体。当下的这个虚拟货币发展充满了创造力，我们希望看到这些发展继续下去，不施加任何人为或技术上的限制。
 </span>
 
