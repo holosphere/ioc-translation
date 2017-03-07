@@ -3,11 +3,11 @@ title: 'Sign up'
 cache_enable: false
 ---
 
-## Get the latest news
-### Join us to start the blockchain freedom (r)evolution!
+## 获取最新消息
+### 我们一起开始区块链的自由之路！
 
-<big><b>Fundraiser launches on 21.03.2017 at 10:00 UTC.</b></big>
+<big><b>Fundraiser 发布于 21.03.2017 at 10:00 UTC.</b></big>
 <br><br>
-Enter your e-mail address, and we will keep you updated about<br>
-the launch of our platform, and how you can participate in the fundraiser.<br>
-E-mail updates are sent in English.
+输入您的电子邮件地址，持续让您更新<br>
+我们的平台的推出，以及如何参与募捐。
+

@@ -1,21 +1,22 @@
 ---
-title: Why
+title: Porqué
 menu: part2
 ---
 
-## Why
-### The blockchain was conceived for financial liberty
+## Porqué
+### La cadena de bloques fue concebida para la libertad financiera
 
 <span class="column-left">
-The present cryptocurrency scene is fragmented and potentially at risk of becoming financially and politically centralized. Like ourselves, many blockchain enthusiasts would not want this to happen.<br><br>Powerful financial actors often merely want to reap rewards by doing business in the cryptocurrency scene. Although we believe this to be an inevitable development, we are also convinced that this must not pose a negative influence on the fundamental liberties of users and developers of cryptocurrencies.
-</span><span class="column-right small" style="height: 14em;">![Bullhorn](bullhorn.svg "Join us in taking the financial world by storm!")</span>
+La escena de criptomoneda actual está fragmentada y potencialmente en riesgo de centralización financiera y política. Al igual que nosotros, muchos entusiastas de cadena de bloques no querrían que esto suceda.<br><br>Los actores financieros poderosos con frecuencia meramente quieren cosechar recompensas haciendo negocios en la escena de criptomoneda. Aunque creemos que esto es un desarrollo inevitable, también estamos convencidos de que esto no debe suponer una influencia negativa en las libertades fundamentales de los usuarios y desarrolladores de criptomonedas.</span><span class="column-right small" style="height: 14em;">![Bullhorn](bullhorn.svg "Únase a nosotros para tomar el mundo financiero por asalto!")</span>
 
 <br><br>
 
-<span class="column-left small" style="padding-top: 2em; height: 15em;">![Bitcoin wallet](bitcoin_wallet.svg "We want more flexibility, freedom and humanity in the cryptosphere.")</span><span class="column-right">
-<b>We want to enable the free and unlimited exchange of value among crypto-ledger based systems and other financial systems.</b><br><br>Our vision for the Internet of Coins is an inclusive autonomous network, enabling anyone to participate and build alternative financial instruments and markets, featuring equality in participation, representation and influence.<br><br>Where peer-to-peer cooperation is rewarded and encouraged by way of incentives through open standards, aiming for inter-systemic equilibrium and freedom.
+<span class="column-left small" style="padding-top: 2em; height: 15em;">![Bitcoin wallet](bitcoin_wallet.svg "Queremos más flexibilidad, libertad y humanidad en la criptósfera.")</span><span class="column-right">
+<b>Queremos permitir el intercambio libre e ilimitado de valor entre los sistemas basados en <i>cripto-libros mayores</i> y otros sistemas financieros.</b><br><br>Nuestra visión para la Internet of Coins es una red autónoma inclusiva en el que todos pueden participar y desarrollar instrumentos y mercados financieros alternativos en los que prevalecen la igualdad de participación, representación e influencia en la red.<br><br>Donde la cooperación <i>peer-to-peer</i> es recompensada y estimulada por incentivos a través de estándares abiertos, centrándose en el equilibrio inter-sistémico y la libertad de todos los miembros.
 </span>
 
 <br><br>
 
-<span class="column-center">We believe that building yet another system-to-rule-them-all does not represent a way forward. Instead, in our opinion, the best way to ensure freedom and justice for all is to integrate existing and future crypto-technologies into an independent, loosely coupled and autonomous ecosystem.<br><br><b>That is why we designed Internet of Coins to support all cryptocurrencies.</b></span>
+<span class="column-center">Creemos que construir otro "sistema para gobernar a todos" no representa un camino adelante. En cambio, en nuestra opinión, la mejor manera de garantizar la libertad y la justicia para todos es integrar las criptotecnologías existentes y futuras en un ecosistema independiente, débilmente acoplado y autónomo.<br><br><b>Por lo tanto, hemos diseñado el Internet of Coins: para soportar a todas las criptomonedas.</b></span>
+
+

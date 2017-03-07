@@ -1,13 +1,13 @@
 ---
-title: 'Sign up'
+title: ‘Regístrese’
 cache_enable: false
 ---
 
-## Get the latest news
-### Join us to start the blockchain freedom (r)evolution!
+## Obtenga las últimas noticias
+### ¡Únase a nosotros para iniciar la revolución de libertad de cadena de bloques!
 
-<big><b>Fundraiser launches on 21.03.2017 at 10:00 UTC.</b></big>
+<big><b>Lanzamiento del <i>fundraiser</i> el 21.03.2017 a las 10:00 UTC.</b></big>
 <br><br>
-Enter your e-mail address, and we will keep you updated about<br>
-the launch of our platform, and how you can participate in the fundraiser.<br>
-E-mail updates are sent in English.
+Ingrese su dirección de correo electrónico y le mantendremos informado sobre<br>
+el lanzamiento de nuestra plataforma y cómo puede participar en la <i>fundraiser</i>.<br>
+Los correos electrónicos se enviarán en inglés.

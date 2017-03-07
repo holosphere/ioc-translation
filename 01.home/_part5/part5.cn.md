@@ -1,10 +1,10 @@
 ---
-title: Team
+title: 团队
 people:
     -
         name: 'Joachim de Koning'
         pic: 1.jpg
-        position: Founder
+        position: 创始人
         social:
             -
                 title: github
@@ -18,7 +18,7 @@ people:
     -
         name: 'Robert de Groot'
         pic: 2.jpg
-        position: Co-founder
+        position: 联合创始人
         social:
             -
                 title: github
@@ -32,7 +32,7 @@ people:
     -
         name: 'Amadeus de Koning'
         pic: 3.jpg
-        position: Developer
+        position: 开发
         social:
             -
                 title: github
@@ -46,7 +46,7 @@ people:
     -
         name: 'Steffen Hoffmann'
         pic: 7.jpg
-        position: Developer
+        position: 开发
         social:
             -
                 title: github
@@ -60,7 +60,7 @@ people:
     -
         name: 'Aymeric Vitte'
         pic: 13.jpg
-        position: Researcher
+        position: 研究员
         social:
             -
                 title: github
@@ -74,7 +74,7 @@ people:
     -
         name: 'Jelle Herold'
         pic: 4.jpg
-        position: Cryptographer
+        position: 密码领域
         social:
             -
                 title: github
@@ -88,7 +88,7 @@ people:
     -
         name: 'Sergey Kazenyuk'
         pic: 5.jpg
-        position: 'Informatics researcher'
+        position: '信息领域研究员'
         social:
             -
                 title: github
@@ -102,7 +102,7 @@ people:
     -
         name: 'Marjon Riehl'
         pic: 10.jpg
-        position: 'Translation Coordinator'
+        position: '翻译协调员'
         social:
             -
                 title: linkedin
@@ -113,7 +113,7 @@ people:
     -
         name: 'Pim Weltevrede'
         pic: 8.jpg
-        position: Marketeer
+        position: 市场
         social:
             -
                 title: github
@@ -127,7 +127,7 @@ people:
     -
         name: 'Matthias Klees'
         pic: 6.jpg
-        position: Evangelist
+        position: 推广
         social:
             -
                 title: linkedin
@@ -138,7 +138,7 @@ people:
     -
         name: 'George Zeeman'
         pic: 11.jpg
-        position: 'Project Manager'
+        position: '项目经理
         social:
             -
                 title: github
@@ -152,7 +152,7 @@ people:
     -
         name: 'Marietje Kardaun'
         pic: 12.jpg
-        position: 'Advisor'
+        position: '顾问'
         social:
             -
                 title: linkedin
@@ -162,3 +162,5 @@ description: ''
 
 ## Team
 ### The people driving the Internet of Coins project
+
+

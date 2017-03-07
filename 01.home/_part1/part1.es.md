@@ -1,12 +1,12 @@
 ---
-title: What
+title: Qué es
 menu: part1
 buttons:
     -
-        text: 'Sign up'
+        text: ‘Regístrese’
         url: '#signup'
     -
-        text: Whitepaper
+        text: Informe blanco
         url: 'https://internetofcoins.org/public/uploads/whitepaper_ioc.pdf'
     -
         text: Terms
@@ -19,19 +19,22 @@ buttons:
         url: 'https://internetofcoins.org'
 ---
 
-## What
-### Interlinking all digital forms of value
+## Qué es
+### Interconectar todas las formas digitales de valor
 
 <span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> is an environment for personal finance. As a decentralized platform it enables an optimally inclusive financial network, interlinking all digital forms of value. It allows you to trade digital assets and currencies peer to peer, with an easy to use interface and the opportunity to earn fees by participating as an allocator.<br><br>In the past two years, the groundwork for this system has been implemented by a team that dedicates their time to the creation of an innovative open source financial networking agent called <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, that directly links crypto-ledgers together.
-</span><span class="column-right small" style="height: 13em;"> ![No cryptocurrencies left behind!](power_system.svg) </span>
+<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> es un ambiente para las finanzas personales. Como plataforma descentralizada, permite una red financiera óptimamente inclusiva, vinculando todas las formas digitales de valor. Le permite intercambiar activos y monedas digitales <i>peer-to-peer</i>, con una interfaz fácil de usar y la oportunidad de ganar honorarios al participar como asignador.
+
+<br><br>En los últimos dos años, las bases para este sistema han sido implementadas por un equipo que dedica su tiempo a la creación de un innovador agente de red financiera de código abierto llamado <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, que enlaza directamente a los <i>cripto-libros mayores</i>.
+</span><span class="column-right small" style="height: 13em;"> ![Power system](power_system.svg "¡No quedan criptomonedas!") </span>
 <br><br>
 
-<span class="column-left small" style="height: 13em;"> ![Users love different coins, and should have the freedom to choose.](love_coins.svg) </span><span class="column-right">
-<b>Existing wallets need no changes or adaptations to allow their blockchains and value systems to be hooked into this autonomous decentralized network.</b><br><br>We want to integrate all token value systems into an interconnected and financially liquid web. The current developments in cryptocurrencies are already overflowing with creativity, and we'd love to see these developments continue without imposing any artificial or technical limitations.
+<span class="column-left small" style="height: 13em;"> ![Love coins](love_coins.svg "Los usuarios aman fichas diferentes y deben tener la libertad de elegir.") </span><span class="column-right">
+<b>Las carteras existentes no necesitan cambios ni adaptaciones para permitir que sus cadenas de bloques y sistemas de valor se conecten a esta red autónoma decentralizada.</b><br><br>Queremos integrar todos los sistemas de fichas de valor en una red interconectada y financieramente líquida. Los desarrollos actuales en criptomonedas ya están rebosando de creatividad y nos gustaría que continúen sin imponer ninguna limitación artificial o técnica.
 </span>
 
 <br><br>
 
-<b>Click on the buttons below to be informed about our fundraiser, read the FAQ, blog, whitepaper or look at our terms.</b>
+<b>Haga clic en los botones de abajo para recibir información sobre nuestro <i>fundraiser</i>, leer el FAQ, blog, el informe blanco o consultar nuestras condiciones de uso (Terms).</b>
+
 

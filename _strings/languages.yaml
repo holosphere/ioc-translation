@@ -66,3 +66,38 @@ ru:
   CONTACTEMAIL_PLACEHOLDER: Ваш адрес электронной почты
   CONTACTMSG_PLACEHOLDER: Пожайлуста, держите меня в курсе происходящего! (или напишите чего бы вы хотели своими словами)
   CONTACTBTN_PLACEHOLDER: Отправить
+cn:
+  MENU1: 什么
+  URL1: '#part1'
+  MENU2: 为什么
+  URL2: '#part2'
+  MENU3: 如何
+  URL3: '#part3'
+  MENU4: 故事
+  URL4: '#part4'
+  MENU5: 团队
+  URL5: '#part5'
+  NEWSLETTER_PLACEHOLDER: 通知我(请输入邮箱地址)
+  NEWSLETTER_SENDBUTTON: 发送
+  CONTACTNAME_PLACEHOLDER: 输入用户名
+  CONTACTEMAIL_PLACEHOLDER: 输入邮箱地址
+  CONTACTMSG_PLACEHOLDER: 请通知我 (或用你自己的话告诉我)
+  CONTACTBTN_PLACEHOLDER: 发送
+es:
+  MENU1: Qué es
+  URL1: '#part1'
+  MENU2: Porqué
+  URL2: '#part2'
+  MENU3: Cómo
+  URL3: '#part3'
+  MENU4: Nuestra Historia
+  URL4: '#part4'
+  MENU5: El Equipo
+  URL5: '#part5'
+  NEWSLETTER_PLACEHOLDER: (Por favor, introduzca su dirección de correo electrónico)
+  NEWSLETTER_SENDBUTTON: Enviar
+  CONTACTNAME_PLACEHOLDER: Introduzca su nombre
+  CONTACTEMAIL_PLACEHOLDER: Introduzca su dirección de correo electrónico
+  CONTACTMSG_PLACEHOLDER: Por favor, ¡manténganme informado! (O póngase en contacto con nosotros en sus propias palabras)
+  CONTACTBTN_PLACEHOLDER: Enviar
+
