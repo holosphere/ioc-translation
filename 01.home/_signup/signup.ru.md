@@ -3,8 +3,8 @@ title: 'Регистрация'
 cache_enable: false
 ---
 
-## Get the latest news
-### Join us to start the blockchain freedom (r)evolution!
+## Получить последние новости
+### Присоединяйтесь к нам, чтобы начать революцию Блокчейн свободу!
 
 <big><b>Сбор средств начинается 21.03.2017 в 10:00 UTC.</b></big>
 <br><br>
