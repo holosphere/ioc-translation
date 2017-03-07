@@ -6,14 +6,12 @@ title: 故事
         heading: 2006-2011
         subheading: '我们的开始'
         body: '当我们着手开启项目，我们的团队成员获得了丰富的金融市场经验，包括外汇，商品交易和黄金投资。我们在自动化交易平台上编程 ，测试了早期的电子资产系统，并开发了多资产交易的基础平台。在这个关充满真实和危机的市场条件下，我们相信，一个新的个人理财的思维让你我回到经济增长的良好循环中。'
-
         align: 图片
     -
         img: 2.jpg
         heading: '2012'
         subheading: '虚拟币市场的初步研究'
         body: '自2009年比特币发行以来，有观察显示虚拟币市场的快速成长，我们认识到这种破坏性技术的潜力。我们的团队成员工作于新兴虚拟币和交换平台，并提供采矿设备给第三方。我们有深入了解背后的技术平台和区块链方面的技术的背景。'
-
         align: inverted
     -
         img: 4.jpg
@@ -23,7 +21,7 @@ title: 故事
         align: image
     -
         img: stormwind.jpg
-        heading: 2013-2015
+        heading: '2013-2015'
         subheading: '暴风城加密平台'
         body: '从2013开始，我们之前的开发案例经验，我们开发了暴风城密码交易系统和相关的混合资产，分别在2014向社会公布，对提供 <a href="http://nxt.org/" target="_blank">NXT</a> 和 <a href="http://counterparty.io/" target="_blank">Counterparty</a> 市场平台. 暴风系统交易使用API接口交易，管理资金分配。尽管市场艰难，但参与者还是盈利。'
         align: inverted
@@ -41,7 +39,7 @@ title: 故事
         align: inverted
     -
         img: Smithy.jpg
-        heading: 2016-2017
+        heading: '2016-2017'
         subheading: '建立基础设施'
         body: '随着项目规模的扩展，我们有了自己的办公室并和我们的团队一起工作，我们的第一个操作原型将在alpha用户社区进行测试以确保安全性和可操作性，他们提供必要的反馈，涉及可用性以及使用我们个人财务方面的环境的用户体验并将持续之。. Matthias Klees从联邦区块链主动加入我们 <a href="https://nlnet.nl/" target="_blank">NLnet Foundation</a> 成为我们的资金和法律顾问.'
         align: image
