@@ -23,7 +23,7 @@ buttons:
 ### Interconectar todas las formas digitales de valor
 
 <span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> es un ambiente para las finanzas personales. Como plataforma descentralizada, permite una red financiera óptimamente inclusiva, vinculando todas las formas digitales de valor. Le permite intercambiar activos y monedas digitales <i>peer-to-peer</i>, con una interfaz fácil de usar y la oportunidad de ganar honorarios al participar como asignador.
+<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> es un ambiente para las finanzas personales. Como plataforma decentralizada, permite una red financiera óptimamente inclusiva, vinculando todas las formas digitales de valor. Le permite intercambiar activos y monedas digitales <i>peer-to-peer</i>, con una interfaz fácil de usar y la oportunidad de ganar honorarios al participar como asignador.
 
 <br><br>En los últimos dos años, las bases para este sistema han sido implementadas por un equipo que dedica su tiempo a la creación de un innovador agente de red financiera de código abierto llamado <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, que enlaza directamente a los <i>cripto-libros mayores</i>.
 </span><span class="column-right small" style="height: 13em;"> ![Power system](power_system.svg "¡No quedan criptomonedas!") </span>
