@@ -12,7 +12,7 @@ La escena de criptomoneda actual está fragmentada y potencialmente en riesgo de
 <br><br>
 
 <span class="column-left small" style="padding-top: 2em; height: 15em;">![Bitcoin wallet](bitcoin_wallet.svg "Queremos más flexibilidad, libertad y humanidad en la criptósfera.")</span><span class="column-right">
-<b>Queremos permitir el intercambio libre e ilimitado de valor entre los sistemas basados en <i>cripto-libros mayores</i> y otros sistemas financieros.</b><br><br>Nuestra visión para la Internet of Coins es una red autónoma inclusiva en el que todos pueden participar y desarrollar instrumentos y mercados financieros alternativos en los que prevalecen la igualdad de participación, representación e influencia en la red.<br><br>Donde la cooperación <i>peer-to-peer</i> es recompensada y estimulada por incentivos a través de estándares abiertos, centrándose en el equilibrio inter-sistémico y la libertad de todos los miembros.
+<b>Queremos permitir el intercambio libre e ilimitado de valor entre los sistemas basados en <i>cripto-libros mayores</i> y otros sistemas financieros.</b><br><br>Nuestra visión para la Internet of Coins es una red autónoma inclusiva en la que todos pueden participar y desarrollar instrumentos y mercados financieros alternativos en los que prevalecen la igualdad de participación, representación e influencia en la red.<br><br>Donde la cooperación <i>peer-to-peer</i> es recompensada y estimulada por incentivos a través de estándares abiertos, centrándose en el equilibrio inter-sistémico y la libertad de todos los miembros.
 </span>
 
 <br><br>
