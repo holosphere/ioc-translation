@@ -19,7 +19,7 @@ buttons:
         url: 'https://internetofcoins.org'
 ---
 
-## What
+## ماذا‬
 ### Interlinking all digital forms of value
 
 <span class="column-left">
