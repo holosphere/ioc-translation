@@ -3,7 +3,7 @@ title: Qué es
 menu: part1
 buttons:
     -
-        text: ‘Regístrese’
+        text: Regístrese
         url: '#signup'
     -
         text: Informe blanco
