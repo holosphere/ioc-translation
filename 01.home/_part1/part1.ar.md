@@ -20,7 +20,7 @@ buttons:
 ---
 
 ## ماذا‬
-### Interlinking all digital forms of value
+### ‫للقيمة‬ ‫الرقمية‬ ‫الأشكال‬ ‫جميع‬ ‫ربط‬
 
 <span class="column-left">
 <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> is an environment for personal finance. As a decentralized platform it enables an optimally inclusive financial network, interlinking all digital forms of value. It allows you to trade digital assets and currencies peer to peer, with an easy to use interface and the opportunity to earn fees by participating as an allocator.<br><br>In the past two years, the groundwork for this system has been implemented by a team that dedicates their time to the creation of an innovative open source financial networking agent called <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, that directly links crypto-ledgers together.
