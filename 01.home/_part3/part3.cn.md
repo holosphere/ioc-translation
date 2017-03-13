@@ -7,7 +7,7 @@ menu: part3
 ### 区块链和价值体系的模块互联
 
 <span class="column-left">
-我们已经开发了一个点对点的互通平台系统<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>. 这样的页面具有连接的价值系统和同步输入的能力以及传输数据通过可扩展的数据链，我们称之为 <i>weavechain</i>. <br><br><b>整个系统是模块化的。</b><br><br> 从他的调度与路由引擎中，各种虚拟币的接口和适配器，取决于其点对点的模块通信系统。</span><span class="column-right small" style="height: 12em;">![Test tube](test_tube.svg "两年的研究和发展，最终有了 Internet of Coins.")</span>
+我们已经开发了一个点对点的互通平台系统<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>. 这样的页面具有连接的价值系统和同步输入的能力以及传输数据通过可扩展的数据链，我们称之为 <i>weavechain</i>. <br><br><b>整个系统是模块化的。</b><br><br> 从他的调度与路由引擎中，各种虚拟币的接口和适配器，取决于其点对点的模块通信系统。</span><span class="column-right small" style="height: 12em;">![Research and development](test_tube.svg "两年的研究和发展，最终有了 Internet of Coins.")</span>
 
 <br><br>
 
