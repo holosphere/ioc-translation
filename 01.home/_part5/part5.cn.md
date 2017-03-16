@@ -32,7 +32,7 @@ people:
     -
         name: 'Amadeus de Koning'
         pic: 3.jpg
-        position: 开发
+        position: 项目开发
         social:
             -
                 title: github
@@ -46,7 +46,7 @@ people:
     -
         name: 'Steffen Hoffmann'
         pic: 7.jpg
-        position: 开发
+        position: 项目开发
         social:
             -
                 title: github
