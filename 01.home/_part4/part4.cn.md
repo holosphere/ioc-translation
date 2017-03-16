@@ -23,7 +23,7 @@ abouts:
         img: stormwind.jpg
         heading: '2013-2015'
         subheading: '暴风城加密平台'
-        body: '从2013开始，我们之前的开发案例经验，我们开发了暴风城密码交易系统和相关的混合资产，分别在2014向社会公布，对提供 <a href="http://nxt.org/" target="_blank">NXT</a> 和 <a href="http://counterparty.io/" target="_blank">Counterparty</a> 市场平台. 暴风系统交易使用API接口交易，管理资金分配。尽管市场艰难，但参与者还是盈利。'
+        body: '从2013开始，依据我们之前的开发案例经验，我们打造了暴风城密码交易系统和相的混合资产，分别在2014向社会公布，对提供 <a href="http://nxt.org/" target="_blank">NXT</a> 和 <a href="http://counterparty.io/" target="_blank">Counterparty</a> 市场平台. 暴风系统交易使用API接口交易，管理资金分配。尽管市场艰难，但参与者依旧能够盈利。'
         align: inverted
     -
         img: network.jpg
@@ -41,7 +41,7 @@ abouts:
         img: Smithy.jpg
         heading: '2016-2017'
         subheading: '建立基础设施'
-        body: '随着项目规模的扩展，我们有了自己的办公室并和我们的团队一起工作，我们的第一个操作原型将在alpha用户社区进行测试以确保安全性和可操作性，他们提供必要的反馈，涉及可用性以及使用我们个人财务方面的环境的用户体验并将持续之。. Matthias Klees从联邦区块链主动加入我们 <a href="https://nlnet.nl/" target="_blank">NLnet Foundation</a> 成为我们的资金和法律顾问.'
+        body: '随着项目规模的扩展，我们拥有了可以和团队一起工作的工作室。我们的第一个操作原型将在alpha用户社区进行测试以确保安全性和可操作性。他们提供必要的反馈，这些反馈涉及产品可用性及用户对我们所打造的个人财务环境的使用体验，这项工作将持续下去。. Matthias Klees从联邦区块链主动加入我们 <a href="https://nlnet.nl/" target="_blank">NLnet Foundation</a> 并成为了我们的资金和法律顾问.'
         align: image
     -
         img: null
