@@ -24,18 +24,18 @@ buttons:
 
 <span class="column-left">
 <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> is een gedecentraliseerd platform dat het mogelijk maakt
-om een optimaal inclusief netwerk op te zetten, dat alle digitale waarde tokens met elkaar verbindt.<br><br>
+om een optimaal inclusief netwerk op te zetten, dat alle digitale waardetokens met elkaar verbindt.<br><br>
 Ons doel is om alle [token waarde systemen](https:/coinmarketcap.com) met elkaar te verbinden in een onderling verweven en financieel liquide web.</span>
 <span class="column-right small" style="height: 13em;"> ![No cryptocurrencies left behind!](power_system.svg) </span>
 <br><br>
-In de afgelopen twee jaar is voor dit systeem de basis gelegd door een team van specialisten, die hun tijd doneren aan aan het maken van een innovatieve open source token-waarde netwerk agent genaamd <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, de uitgebreide versie met alle modules maakt het mogelijk om alle cryptotokens met elkaar te verbinden.
+In de afgelopen twee jaar is voor dit systeem de basis gelegd door een team van specialisten, die hun tijd doneren aan het maken van een innovatieve open source token-waarde netwerk agent genaamd <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, de uitgebreide versie met alle modules maakt het mogelijk om alle cryptotokens met elkaar te verbinden.
 <br><br>
 
 <span class="column-left small" style="height: 13em;"> ![Users love different coins, and should have the freedom to choose.](love_coins.svg) </span><span class="column-right">
-<b>Bestaande wallets behoeven geen verandering of aanpassing van hun blockchains en waarde systemen om ingehaakt te kunnen worden
-in dit autonome decentrale netwerk.</b><br><br>Wij willen alle token waarde systemen in een onderling verbonden en financieel liquide web integreren. De huidige ontwikkelingen in cryptocurrencies stromen reeds over met creativiteit. Dit zien we graag doorgaan over de gehele breedte en parallel, zonder kunstmatige grenzen op te leggen.
+<b>Bestaande wallets behoeven geen verandering of aanpassing van hun blockchains en waardesystemen om ingehaakt te kunnen worden
+in dit autonome decentrale netwerk.</b><br><br>Wij willen alle token waardesystemen in een onderling verbonden en financieel liquide web integreren. De huidige ontwikkelingen in cryptocurrencies stromen reeds over met creativiteit. Dit zien we graag doorgaan over de gehele breedte en parallel, zonder kunstmatige grenzen op te leggen.
 </span>
 
 <br><br>
 
-<b>Klik op de knoppen hier onder, om over onze campagne geinformeerd te worden, om het whitepaper te lezen of de voorwaarden (Terms) te bekijken.</b>
+<b>Klik op de knoppen hieronder om over onze campagne geinformeerd te worden, om het whitepaper te lezen of de voorwaarden (Terms) te bekijken.</b>
