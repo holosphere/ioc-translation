@@ -19,7 +19,7 @@ buttons:
         url: 'https://internetofcoins.org'
 ---
 
-## 什么
+## 何为
 ### 联合全数字形式的价值
 
 <span class="column-left">
