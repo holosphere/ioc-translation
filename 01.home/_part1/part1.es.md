@@ -35,6 +35,6 @@ buttons:
 
 <br><br>
 
-<b>Haga clic en los botones de abajo para recibir información sobre nuestro <i>fundraiser</i>, leer el FAQ, blog, el informe blanco o consultar nuestras condiciones de uso (Terms).</b>
+<b>Haga clic en los botones de abajo para recibir información sobre nuestro <i>fundraiser</i>, leer las FAQ, blog, el informe blanco o consultar nuestras condiciones de uso (Terms).</b>
 
 
