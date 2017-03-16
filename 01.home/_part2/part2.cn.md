@@ -1,9 +1,9 @@
 ---
-title: 为什么
+title: 何因
 menu: part2
 ---
 
-## 为什么
+## 何因
 ### 区块链为财务自由而存在
 
 <span class="column-left">
