@@ -3,7 +3,7 @@ title: Header
 menu: Top
 buttons:
     -
-        text: 'join the storm!'
+        text: 'انضم إلينا!'
         url: '#signup'
 ---
 
