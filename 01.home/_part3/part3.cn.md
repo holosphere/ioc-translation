@@ -17,7 +17,7 @@ menu: part3
 <br><br>
 
 <span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> 有能力通过久经考验的标准互联网协议安全通信，以及能够采用Deep Web分层网络<a href="https://www.torproject.org/" target="_blank">TOR</a>, <a href="https://geti2p.net/" target="_blank">I2P</a> 或者 <a href="https://zeronet.io/" target="_blank">ZeroNet</a> 当在各个节点之间通讯时。 Hybrid 资产构造函数能够承担流动性和兼容性通过不通的请尽快了和分账式的系统。</span><span class="column-right small" style="height: 9em;">![Deployment](deployment.svg "我们的目标是建立一个保护性的网络超越目前的标准和理念。")</span>
+<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> 有能力通过久经考验的标准互联网协议安全通信，以及能够采用Deep Web分层网络<a href="https://www.torproject.org/" target="_blank">TOR</a>, <a href="https://geti2p.net/" target="_blank">I2P</a> 或者 <a href="https://zeronet.io/" target="_blank">ZeroNet</a> 当在各个节点之间通讯时，混合资产构造函数能够承担流动性和兼容性通过不通的请尽快了和分账式的系统。</span><span class="column-right small" style="height: 9em;">![Deployment](deployment.svg "我们想要建立一个超越目前标准和理念保护性的网络。")</span>
 
 <br><br>
 
