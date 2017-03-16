@@ -3,7 +3,7 @@ title: Header
 menu: Top
 buttons:
     -
-        text: 'انضم إلينا!'
+        text: 'انضم إلينا'
         url: '#signup'
 ---
 
