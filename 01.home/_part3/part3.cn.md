@@ -1,9 +1,9 @@
 ---
-title: 如何
+title: 何如
 menu: part3
 ---
 
-## 如何
+## 何如
 ### 区块链和价值体系的模块互联
 
 <span class="column-left">
