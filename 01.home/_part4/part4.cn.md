@@ -35,7 +35,7 @@ abouts:
         img: recognize.jpg
         heading: '2015'
         subheading: '项目认可'
-        body: '在 <a href="https://bitcoin.com/" target="_blank">Bitcoin''s</a> 第六个生日之际，我们发布了白皮书，在欧洲提出几个虚拟加密领域的会议并且开启<a href="https://www.startupbootcamp.org/" target="_blank">启动金融科技训练营</a>. 荷兰 <a href="https://www.sidnfonds.nl/excerpt/" target="_blank">SIDN 基金</a> 认识到我们的非盈利性项目并给予了资金赞助作为"自由和独立的互联网项目" 并将其进一步发展提供资金。'
+        body: '在 <a href="https://bitcoin.com/" target="_blank">Bitcoin''s</a> 第六个生日之际，我们发布了白皮书，多次出席欧洲加密货币会议并开启<a href="https://www.startupbootcamp.org/" target="_blank">启动金融科技训练营</a>. 荷兰 <a href="https://www.sidnfonds.nl/excerpt/" target="_blank">SIDN 基金</a> 为我们颁发了“先锋奖”以表彰我们的非营利性独立网络，这也代表了其对我们项目的认同。与此同时，SIDN基金给予我们资金赞助以协助项目进一步发展。'
         align: inverted
     -
         img: Smithy.jpg
