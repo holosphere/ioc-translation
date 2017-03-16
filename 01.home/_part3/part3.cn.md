@@ -7,7 +7,7 @@ menu: part3
 ### 区块链和价值体系的模块互联
 
 <span class="column-left">
-我们已经开发了一个点对点的互通平台系统<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>，它会形成一张网，这张网能够在可拓展数据链的帮助下连接价值体系和同步迁入、传出的数据流，我们称这项创新为 <i>“编链”（weavechain）</i>. <br><br><b>整个系统是模块化的。</b><br><br> 从调度与路由引擎，到各种加密币的接口和适配器，到当代点对点加密通信系统。</span><span class="column-right small" style="height: 12em;">"经过两年的研究和发展，最终有了 Internet of Coins.</span>
+我们已经开发了一个点对点的互通平台系统<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>，它会形成一张网，这张网能够在可拓展数据链的帮助下连接价值体系和同步迁入、传出的数据流，我们称这项创新为 <i>“编链”（weavechain）</i>. <br><br><b>整个系统是模块化的。</b><br><br> 从调度与路由引擎，到各种加密币的接口和适配器，到当代点对点加密通信系统。</span><span class="column-right small" style="height: 12em;">"经过两年的研究和发展，最终有了 Internet of Coins.”</span>
 
 <br><br>
 
