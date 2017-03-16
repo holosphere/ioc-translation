@@ -7,4 +7,4 @@ buttons:
         url: '#signup'
 ---
 
-<h3 class="header-font">我们一起开始区块链的自由之路</h3>
+<h3 class="header-font">启动区块链的自由革命</h3>
