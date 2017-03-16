@@ -4,16 +4,16 @@ menu: part3
 ---
 
 ## Cómo
-### Interconectividad modulada de cadenas de bloques y sistemas de valores
+### Interconectividad modulada de cadenas de bloques y sistemas de valor
 
 <span class="column-left">
-Hemos desarrollado una plataforma de interconexión con un sistema de nodo a nodo llamada <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>. Forma una red, con la capacidad de conectar sistemas de valores y sincronizar flujos de datos entrantes y salientes por medio de una cadena de datos escalable; Una innovación que llamamos la <i>weavechain</i>. <br><br><b>Todo el sistema está modularizado.</b><br><br> Desde su motor de programación y enrutamiento, las interfaces y adaptadores hacia diversas criptomonedas, hasta su sistema de comunicaciones encriptado <i>peer-to-peer</i> moderno.
+Hemos desarrollado una plataforma de interconexión con un sistema de nodo a nodo llamada <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>. Forma una red, con la capacidad de conectar sistemas de valor y sincronizar flujos de datos entrantes y salientes por medio de una cadena de datos escalable; Una innovación que llamamos la <i>weavechain</i>. <br><br><b>Todo el sistema está modularizado.</b><br><br> Desde su motor de programación y enrutamiento, las interfaces y los adaptadores hacia diversas criptomonedas, hasta su sistema de comunicaciones encriptado <i>peer-to-peer</i> moderno.
 </span><span class="column-right small" style="height: 12em;">![Test tube](test_tube.svg "Dos años de investigación y desarrollo han culminado en la Internet of Coins.")</span>
 
 <br><br>
 
 <span class="column-left small" style="height: 15em;">![Bitcoin network](bitcoin_network.svg "Hemos tomado el desarrollo sólido y la resiliencia de Bitcoin como ejemplo.")</span><span class="column-right">
-Nuestro objetivo final es permitir que cada criptomoneda se convierta de forma autónoma en una parte de una enorme muchedumbre de interacción financiera global descentralizada. Nuestro objetivo es realizar esto permitiendo a cualquier actor en la red establecer fichas de valor, conocidas como activos híbridos, que interconectan sistemas de valor y cadenas de bloques a través de los mercados. <br><br><b>Nos esforzamos por permitir que cada criptomoneda se interconecte de forma autónoma en una gran muchedumbre de actividad económica descentralizada, utilizando una <i>weavechain</i>.</b><br><br> El código de programación para hacerlo posible será de código abierto, disponible sin fines de lucro y libremente accesible a todos, con el fin de permitir el establecimiento imparcial de lo que llamamos el <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a>.</span>
+Nuestro objetivo final es permitir que cada criptomoneda se convierta de forma autónoma en una parte de una muchedumbre enorme de interacción financiera global decentralizada. Nuestro objetivo es realizar esto permitiendo a cualquier actor en la red establecer fichas de valor, conocidas como activos híbridos, que interconectan sistemas de valor y cadenas de bloques a través de los mercados. <br><br><b>Nos esforzamos por permitir que cada criptomoneda se interconecte de forma autónoma en una gran muchedumbre de actividad económica descentralizada, utilizando una <i>weavechain</i>.</b><br><br> El código de programación para hacerlo posible será de código abierto, disponible sin fines de lucro y libremente accesible a todos, con el fin de permitir el establecimiento imparcial de lo que llamamos la <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a>.</span>
 
 <br><br>
 
