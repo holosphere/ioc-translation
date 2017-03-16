@@ -29,7 +29,7 @@ abouts:
         img: network.jpg
         heading: '2014'
         subheading: 'Internet of Coins的诞生'
-        body: '随着中心化交易市场的崩溃，一个完全分布式的交换体系的必要性变得清晰。我们没有开始筹款，因为我们想确保一个成熟的技术，为了整体技术稳定来兑现我们的承诺。相反，我们的白皮书，推出<a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a> 网站。 <a href="https://bitalo.com/" target="_blank">Bitalo</a> 支持我们在初始阶段的种子募集。'
+        body: '随着中心化交易市场的崩溃，对完全分散式交易体系的需求变得清晰。我们没有从一开始就着手筹款，是因为需要确保拥有一个成熟的技术架构以兑现我们的承诺。取而代之的是，我们书写了白皮书，推出<a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a> 了这个网站。由 <a href="https://bitalo.com/" target="_blank">Bitalo</a> 支持我们在初始阶段的种子募集。'
         align: image
     -
         img: recognize.jpg
