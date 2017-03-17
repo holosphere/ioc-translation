@@ -4,10 +4,10 @@ menu: part2
 ---
 
 ## Why
-### The blockchain was conceived for financial liberty
+### The blockchain was conceived for transparency
 
 <span class="column-left">
-The present cryptocurrency scene is fragmented and potentially at risk of becoming financially and politically centralized. Like ourselves, many blockchain enthusiasts would not want this to happen.<br><br>Powerful financial actors often merely want to reap rewards by doing business in the cryptocurrency scene. Although we believe this to be an inevitable development, we are also convinced that this must not pose a negative influence on the fundamental liberties of users and developers of cryptocurrencies.
+The present cryptocurrency industry is fragmented and potentially at risk of becoming financially and politically centralized. Like ourselves, many blockchain enthusiasts would not want this to happen.<br><br>Many financial actors want to reap rewards by doing business in the cryptocurrency scene. We support this and believe this to be an inevitable development, yet we are also convinced that this must not pose a negative influence on the fundamental freedom of users and developers of cryptocurrencies.
 </span><span class="column-right small" style="height: 14em;">![Bullhorn](bullhorn.svg "Join us in taking the financial world by storm!")</span>
 
 <br><br>
@@ -18,4 +18,4 @@ The present cryptocurrency scene is fragmented and potentially at risk of becomi
 
 <br><br>
 
-<span class="column-center">We believe that building yet another system-to-rule-them-all does not represent a way forward. Instead, in our opinion, the best way to ensure freedom and justice for all is to integrate existing and future crypto-technologies into an independent, loosely coupled and autonomous ecosystem.<br><br><b>That is why we designed Internet of Coins to support all cryptocurrencies.</b></span>
+<span class="column-center">We believe that building yet another system-to-rule-them-all does not represent a way forward. Instead, in our opinion, the best way to ensure freedom and justice for all is to integrate existing and future crypto-technologies into an independent, open and autonomous ecosystem.<br><br><b>That is why we designed Internet of Coins to support all cryptocurrencies.</b></span>

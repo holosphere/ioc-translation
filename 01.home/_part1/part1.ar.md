@@ -1,38 +1,48 @@
 ---
-title: What
+title: ‫ماذا‬
 menu: part1
 buttons:
     -
-        text: 'Sign up'
+        text: إنشاء حساب
         url: '#signup'
     -
-        text: Whitepaper
+        text: الملف التقني
         url: 'https://internetofcoins.org/public/uploads/whitepaper_ioc.pdf'
     -
-        text: Terms
+        text: مصطلحات
         url: terms
     -
-        text: FAQ
+        text: أسئلة متكررة
         url: faq
     -
-        text: Blog
+        text: مدونة
         url: 'https://internetofcoins.org'
 ---
 
-## What
-### Interlinking all digital forms of value
+## ‫ماذا‬
+### ‫ربط‬ ‫جميع‬ ‫األشكال‬ ‫الرقمية‬ ‫للقيمة‬
 
-<span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> is an environment for personal finance. As a decentralized platform it enables an optimally inclusive financial network, interlinking all digital forms of value. It allows you to trade digital assets and currencies peer to peer, with an easy to use interface and the opportunity to earn fees by participating as an allocator.<br><br>In the past two years, the groundwork for this system has been implemented by a team that dedicates their time to the creation of an innovative open source financial networking agent called <a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, that directly links crypto-ledgers together.
-</span><span class="column-right small" style="height: 13em;"> ![Power system](power_system.svg "No cryptocurrencies left behind!") </span>
-<br><br>
-
-<span class="column-left small" style="height: 13em;"> ![Love coins](love_coins.svg "Users love different coins, and should have the freedom to choose.") </span><span class="column-right">
-<b>Existing wallets need no changes or adaptations to allow their blockchains and value systems to be hooked into this autonomous decentralized network.</b><br><br>We want to integrate all token value systems into an interconnected and financially liquid web. The current developments in cryptocurrencies are already overflowing with creativity, and we'd love to see these developments continue without imposing any artificial or technical limitations.
+<span class="column-left small" style="height: 13em;"> ![Power system](power_system.svg "No cryptocurrencies left behind!") </span>
+<span class="column-right">
+‏شبكة العملات هي منصة تسمح بإدارة التمويل الشخصي. وتوفر لكونها منصة غير مركزية شبكة تمويل مثالية شاملة تربط جميع الأشكال الرقمية للقيمة، كما أنها تسمح بتداول الأصول الرقمية والعملات من نظير إلى نظير وذلك من خلال واجهة سهلة الاستخدام وتوفير فرصة كسب المخصصات من خلال المشاركة كمحصِّص<br/><br/>
+تم خلال العامين الماضيين تنفيذ العمل التحضيري لهذا النظام، من خلال فريق كرس وقته لإعداد وكيل ربط شبكات مالية مبتكرة مفتوحة المصدر يطلق عليه<bdo dir="rtl"> ddirbyh </bdo> والذي يعمل على ربط سجلات الحسابات المشفرة معا .لا وجود لعملات مشفرة غير مستغلة
 </span>
+<br><br>
+<b>
+يحب المستخدمون استخدام عملات مختلفة ويجب أن يتوفر لهم حرية الاختيار. لا يتطلب الأمر إجراء تغييرات أو تعديلات على المحافظ الموجودة وذلك للسماح بأن تكون سلاسل الكتل وأنظمة القيمة الخاصة بها متعلقة بهذه الشبكة اللامركزية المستقلة
+</b>
+<br><br>
+<span class="column-left">
+‏نرغب في دمج كافة نظم القيم الرمزية في نظام شركة 
+‏<bdo dir="rtl"> bew diuqil </bdo>المالي المترابط. تتميز التطورات الراهنة في مجال العملات المشفرة بكونها زاخرة بالإبداعات، ونحن نرغب في استمرار تلك التطورات دون فرض أية قيود تقنية أو مصطنعة
+
+</span>
+<span class="column-right small" style="height: 13em;"> ![Love coins](love_coins.svg "Users love different coins, and should have the freedom to choose.") </span>
 
 <br><br>
 
-<b>Click on the buttons below to be informed about our fundraiser, read the FAQ, blog, whitepaper or look at our terms.</b>
+<b>
+اضغط على الأزرار أدناه للإطلاع على حملة جمع التبرعات، واحرص على قراءة الأسئلة الشائعة أو المدونة أو الملف التقني أو مراجعة المصطلحات الخاصة بنا
+</b>
 
 

@@ -100,4 +100,21 @@ es:
   CONTACTEMAIL_PLACEHOLDER: Introduzca su dirección de correo electrónico
   CONTACTMSG_PLACEHOLDER: Por favor, ¡manténganme informado! (O póngase en contacto con nosotros en sus propias palabras)
   CONTACTBTN_PLACEHOLDER: Enviar
+ar:
+  MENU1: ‫ماذا‬
+  URL1: '#part1'
+  MENU2: ‫لماذا‬
+  URL2: '#part2'
+  MENU3: ‫كيف‬
+  URL3: '#part3'
+  MENU4: ‫قصة‬
+  URL4: '#part4'
+  MENU5: ‫‫فريق‬ ‫العمل
+  URL5: '#part5'
+  NEWSLETTER_PLACEHOLDER: Keep me informed! (Please enter your email address)
+  NEWSLETTER_SENDBUTTON: إرسال
+  CONTACTNAME_PLACEHOLDER: Enter your name
+  CONTACTEMAIL_PLACEHOLDER: Enter your email address
+  CONTACTMSG_PLACEHOLDER: Please keep me informed! (Or write us in your own words)
+  CONTACTBTN_PLACEHOLDER: إرسال
 

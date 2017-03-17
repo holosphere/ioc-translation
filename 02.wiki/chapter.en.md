@@ -7,7 +7,7 @@ theme: learn2
 <h5 style="text-align: center;"><i>"Mountain of Tao, sea of learning."<br><span style="color:gray;"> -- Chinese saying</span></i></h5>
 <br>
 
-Welcome to the Internet of Coins Wiki!<br>
+Welcome to the Internet of Coins tiny wiki!<br>
 To get to know more about our ecosystem, go ahead and browse the pages.
 
 If you do not find what you are looking for, please <a href="/#contact">let us know</a>!

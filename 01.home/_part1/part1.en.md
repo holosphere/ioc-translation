@@ -7,16 +7,19 @@ buttons:
         url: '#signup'
     -
         text: Whitepaper
-        url: 'https://internetofcoins.org/public/uploads/whitepaper_ioc.pdf'
+        url: /whitepaper_ioc.pdf
     -
-        text: Terms
+        text: Crowdfunding
         url: terms
+    -
+        text: Wiki
+        url: wiki
     -
         text: FAQ
         url: faq
     -
         text: Blog
-        url: 'https://internetofcoins.org'
+        url: 'https://blog.internetofcoins.org'
 ---
 
 ## What
