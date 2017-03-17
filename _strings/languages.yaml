@@ -67,11 +67,11 @@ ru:
   CONTACTMSG_PLACEHOLDER: Пожайлуста, держите меня в курсе происходящего! (или напишите чего бы вы хотели своими словами)
   CONTACTBTN_PLACEHOLDER: Отправить
 cn:
-  MENU1: 什么
+  MENU1: 何为
   URL1: '#part1'
-  MENU2: 为什么
+  MENU2: 何因
   URL2: '#part2'
-  MENU3: 如何
+  MENU3: 何如
   URL3: '#part3'
   MENU4: 故事
   URL4: '#part4'
