@@ -3,7 +3,7 @@ title: Header
 menu: Top
 buttons:
     -
-        text: '¡Únase a la tormenta!'
+        text: '¡Únase a la tormenta!'
         url: '#signup'
 ---
 

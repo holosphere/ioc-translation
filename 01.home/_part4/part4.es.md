@@ -4,8 +4,8 @@ abouts:
     -
         img: 1.jpg
         heading: 2006-2011
-        subheading: ‘Nuestros Humildes Comienzos'
-        body: 'Cuando empezamos, los miembros de nuestro equipo adquirieron una amplia experiencia en los mercados financieros, incluyendo el intercambio de divisas, el comercio de productos básicos y la inversión de oro. Programamos en plataformas de negociación automatizadas, probamos sistemas de activos electrónicos tempranos y desarrollamos una infraestructura de transacción de activos múltiples. La exposición a condiciones de mercado reales y de crisis en este período crucial contribuyó a nuestra convicción de que un nuevo enfoque de las finanzas personales es necesario para devolver el crecimiento económico en las manos de usted y de mí.'
+        subheading: 'Nuestros Humildes Comienzos'
+        body: 'Cuando empezamos, los miembros de nuestro equipo adquirieron una amplia experiencia en los mercados financieros, incluyendo el intercambio de divisas, el comercio de productos básicos y la inversión de oro. Programamos en plataformas de negociación automatizadas, probamos sistemas de activos electrónicos tempranos y desarrollamos una infraestructura de transacción de activos múltiples. La exposición a condiciones de mercado reales y de crisis en este período crucial contribuyó a nuestra convicción de que un nuevo enfoque de las finanzas personales es necesario para devolver el crecimiento económico en las manos de usted y de mí.'
         align: image
     -
         img: 2.jpg
