@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contacto
 cache_enable: false
 ---
 
-## STAY IN TOUCH
-### Be informed about our progress
+## SIGA EN CONTACTO
+### Sea informado sobre nuestro progreso

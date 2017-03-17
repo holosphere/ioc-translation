@@ -7,4 +7,4 @@ buttons:
         url: '#signup'
 ---
 
-<h3 class="header-font">blockchain vrijheids (<i>r</i>)evolutie</h3>
+<h3 class="header-font">blockchain vrijheids(<i>r</i>)evolutie</h3>

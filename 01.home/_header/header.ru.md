@@ -3,8 +3,8 @@ title: Header
 menu: Top
 buttons:
     -
-        text: 'присоединиться к шторм'
+        text: 'Присоединиться к буре'
         url: '#signup'
 ---
 
-<h3 class="header-font">Революция Свободы Блокчейна</h3>
+<h3 class="header-font">Блокчейн революция</h3>

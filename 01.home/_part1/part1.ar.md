@@ -1,5 +1,5 @@
 ---
-title: ‫ماذا‬
+title: ماذا‬
 menu: part1
 buttons:
     -
@@ -18,7 +18,6 @@ buttons:
         text: مدونة
         url: 'https://internetofcoins.org'
 ---
-
 ## ‫ماذا‬
 ### ‫ربط‬ ‫جميع‬ ‫األشكال‬ ‫الرقمية‬ ‫للقيمة‬
 

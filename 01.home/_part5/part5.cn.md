@@ -32,7 +32,7 @@ people:
     -
         name: 'Amadeus de Koning'
         pic: 3.jpg
-        position: 开发
+        position: 项目开发
         social:
             -
                 title: github
@@ -46,7 +46,7 @@ people:
     -
         name: 'Steffen Hoffmann'
         pic: 7.jpg
-        position: 开发
+        position: 项目开发
         social:
             -
                 title: github
@@ -74,8 +74,8 @@ people:
     -
         name: 'Jelle Herold'
         pic: 4.jpg
-        position: 密码领域
-        social:
+        position: 密码专家
+        social:
             -
                 title: github
                 url: 'https://github.com/wires'
@@ -113,8 +113,8 @@ people:
     -
         name: 'Pim Weltevrede'
         pic: 8.jpg
-        position: 市场
-        social:
+        position: 交易员
+        social:
             -
                 title: github
                 url: 'https://github.com/poeboe'
@@ -152,7 +152,7 @@ people:
     -
         name: 'Marietje Kardaun'
         pic: 12.jpg
-        position: '顾问'
+        position: '道德顾问'
         social:
             -
                 title: linkedin
