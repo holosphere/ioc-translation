@@ -23,7 +23,7 @@ buttons:
 ### 联合全数字形式的价值
 
 <span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> 是私人的金融环境。作为一个分散的平台，最佳的金融网络，将所有数字货币连接起来。它支持数字资产与货币进行点对点交易，在易于操作的界面下提供参与者赚取费用的机会。<br><br>过去的两年中，本团队利用自己的时间打造了这个系统，开发出了一个创新开放源码的金融网络代理平台<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, 直接对接加密货币体系.
+<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> 是私人的金融环境。作为一个分散的平台，最佳的金融网络，将所有数字货币连接起来。它支持数字资产与货币进行点对点交易，在易于操作的界面下提供参与者赚取费用的机会。<br><br>过去的两年中，本团队利用自己的时间打造了这个系统，开发出了一个创新开放源码的金融网络代理平台<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>, 直接对接加密货币体系。
 </span><span class="column-right small" style="height: 13em;"> ![Power system](power_system.svg "不遗漏一个加密货币!") </span>
 <br><br>
 
