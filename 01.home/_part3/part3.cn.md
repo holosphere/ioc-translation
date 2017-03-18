@@ -17,11 +17,11 @@ menu: part3
 <br><br>
 
 <span class="column-left">
-<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> 有能力通过久经考验的标准互联网协议安全通信，以及能够采用Deep Web分层网络<a href="https://www.torproject.org/" target="_blank">TOR</a>, <a href="https://geti2p.net/" target="_blank">I2P</a> 或者 <a href="https://zeronet.io/" target="_blank">ZeroNet</a> 当在各个节点之间通讯时，混合资产构造函数能够承担流动性和兼容性通过不通的请尽快了和分账式的系统。</span><span class="column-right small" style="height: 9em;">![Deployment](deployment.svg "我们想要建立一个超越目前标准和理念保护性的网络。")</span>
+<a href="https://internetofcoins.org" target="_blank">Internet of Coins</a> 在久经考验得标准化互联网协定下，Internet of Coins能够提供一个安全的交流平台。同时支持<a href="https://www.torproject.org/" target="_blank">TOR</a>, <a href="https://geti2p.net/" target="_blank">I2P</a> 或者 <a href="https://zeronet.io/" target="_blank">ZeroNet</a> 等分层网络的点对点安全通讯。混合资产的构建可以同时实现不同区块链和账务系统的流动性与兼容性。</span><span class="column-right small" style="height: 9em;">![Deployment](deployment.svg "我们想要建立一个超越目前标准和理念保护性的网络。")</span>
 
 <br><br>
 
 <span class="column-left small" style="height: 10em;">![集成电路](integrated_circuit.svg "任何人可以免费链接Internet of Coins hybrid节点.")</span><span class="column-right">
-<b>无需更改即可加入虚拟币或价值体系成为其一员并融入这个变化的网络，一个独特的分配模型确保虚拟币带有一个小的<a href="http://coinmarketcap.com/" target="_blank">市场价值</a>获得必要的流动性支持在一个健康的cryptosphere交换与关联。在这种方式中，我们寻求支持和扩大市场对保持多样性和多元化生态系统。
+<b>无需重新适应改变就可以成为加密货币或价值体系的一员。每个不以收益为导向的区块链或价值体系都可融入这个发展中的网络。独特的分配模式确保具有小市值的货币获得其所需的流动性，以支持它在一个安全的加密环境中交易互联。以这种方式，我们寻求支持并扩大市场，以维持一个多元化的密码生态系统。
 
 
