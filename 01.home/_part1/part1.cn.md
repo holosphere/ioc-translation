@@ -27,8 +27,8 @@ buttons:
 </span><span class="column-right small" style="height: 13em;"> ![Power system](power_system.svg "不遗漏一个加密货币!") </span>
 <br><br>
 
-<span class="column-left small" style="height: 13em;"> ![Love for coins](love_coins.svg "用户喜欢不同的虚拟币，他们有自由选择的权利") </span><span class="column-right">
-<b>现有钱包无需变更或适应即可允许其区块链和价值体系连接到这个分散的网络系统中来。</b><br><br>我们希望将这些令牌系统（英文是token value system，所以中文是不是漏译了value,因为这个属于很专业所以需要翻译看一下）集成到这个相互关联的经济网形成一体。当下的加密货币发展充满了创造力，在不施加任何人为或技术限制的情况下，我们希望看到它继续发展下去。
+<span class="column-left small" style="height: 13em;"> ![Love for coins](love_coins.svg "用户喜欢不同的加密货币，他们有自由选择的权利") </span><span class="column-right">
+<b>现有钱包无需变更或适应即可允许其区块链和价值体系连接到这个分散的网络系统中来。</b><br><br>我们希望将这些令牌价值体系集成到相互关联的经济网并合为一体。当下的加密货币发展充满了创造力，在不施加任何人为或技术限制的情况下，我们希望看到它继续发展下去。
 </span>
 
 <br><br>
