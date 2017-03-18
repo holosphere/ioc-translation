@@ -7,12 +7,12 @@ menu: part3
 ### 区块链和价值体系的模块互联
 
 <span class="column-left">
-我们已经开发了一个点对点的互通平台系统<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>，它会形成一张网，这张网能够在可拓展数据链的帮助下连接价值体系和同步迁入、传出的数据流，我们称这项创新为 <i>“编链”（weavechain）</i>. <br><br><b>整个系统是模块化的。</b><br><br> 从调度与路由引擎，到各种加密币的接口和适配器，到当代点对点加密通信系统。</span><span class="column-right small" style="height: 12em;">"经过两年的研究和发展，最终有了 Internet of Coins.”</span>
+我们已经开发了一个点对点的互通平台系统<a href="https://github.com/internetofcoins/hybridd" target="_blank"><i>hybridd</i></a>，它会形成一张网，这张网能够在可拓展数据链的帮助下连接价值体系和同步迁入、传出的数据流，我们称这项创新为 <i>“编链”（weavechain）</i>. <br><br><b>整个系统是模块化的。</b><br><br> 从调度与路由引擎，到各种加密币的接口和适配器，到当代点对点加密通信系统。</span><span class="column-right small" style="height: 12em;">"经过两年的研究和发展，最终有了 Internet of Coins。”</span>
 
 <br><br>
 
 <span class="column-left small" style="height: 15em;">![比特网络](bitcoin_network.svg "我们已经采取坚实的发展和可扩展的币种，以比特币为例")</span><span class="column-right">
-我们的最终目标是让每一种加密货币自主成为大规模全球分散式金融互动组群的一部分。希望通过网络中参与者建立的价值令牌，即混合资产，连接整个市场的价值体系和区块链。<br><br><b>我们尽力依托“编链”让每种加密货币自主连入分散的经济活动组群中。</b><br><br> 我们将开放源码，在不以营利为目的的基础上，免费向所有人开放，这样才能公平构建真正意义下的 <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a>.</span>
+我们的最终目标是让每一种加密货币自主成为大规模全球分散式金融互动组群的一部分。希望通过网络中参与者建立的价值令牌，即混合资产，连接整个市场的价值体系和区块链。<br><br><b>我们尽力依托“编链”让每种加密货币自主连入分散的经济活动组群中。</b><br><br> 我们将开放源码，在不以营利为目的的基础上，免费向所有人开放，这样才能公平构建真正意义下的 <a href="https://internetofcoins.org" target="_blank">Internet of Coins</a>。</span>
 
 <br><br>
 
