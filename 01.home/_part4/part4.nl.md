@@ -23,7 +23,7 @@ abouts:
         img: stormwind.jpg
         heading: 2013-2015
         subheading: 'Stormwind Crypto Platform'
-        body: 'Beginnend in 2013 en voortbouwend op onze eerdere ervaring, hebben we het Stormwind crypto-handelssysteem en het daarmee verbonden Hybrid Assets ontwikkeld. Deze werden in 2014 aan de openbaarheid bekend gemaakt op de <a href="http://nxt.org/" target="_blank">NXT</a> en <a href="http://counterparty.io/" target="_blank">Counterparty</a> marktplatformen. Het Stormwind systeem handelde middels de API's van verscheidene crypto-exchanges, om de fondsen te beheren. Ondanks moeilijke marktomstandigheden konden deelnemers winst boeken.'
+        body: 'Beginnend in 2013 en voortbouwend op onze eerdere ervaring, hebben we het Stormwind crypto-handelssysteem en het daarmee verbonden Hybrid Assets ontwikkeld. Deze werden in 2014 aan de openbaarheid bekend gemaakt op de <a href="http://nxt.org/" target="_blank">NXT</a> en <a href="http://counterparty.io/" target="_blank">Counterparty</a> marktplatformen. Het Stormwind systeem handelde middels de API''s van verscheidene crypto-exchanges, om de fondsen te beheren. Ondanks moeilijke marktomstandigheden konden deelnemers winst boeken.'
         align: inverted
     -
         img: network.jpg

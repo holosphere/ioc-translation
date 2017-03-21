@@ -1,10 +1,8 @@
 ---
 title: Header
 menu: Top
-buttons:
-    -
-        text: '加入暴风雨'
-        url: '#signup'
 ---
 
 <h3 class="header-font">开启区块链的自由革命</h3>
+<a href="crowdfund" class="btn btn-xl" style="margin-top: 4px; margin-bottom: -50px; background-color: #90cc90; border-color: green;"><i class="fa fa-rocket"></i> 加入众筹</a>
+<a href="terms" class="btn btn-xl" style="margin-top: 4px; margin-bottom: -50px;"><i class="fa fa-legal"></i> 规则</a>
