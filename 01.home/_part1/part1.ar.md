@@ -19,7 +19,7 @@ buttons:
         url: 'https://internetofcoins.org'
 ---
 ## ‫ماذا‬
-### ‫ربط‬ ‫جميع‬ ‫األشكال‬ ‫الرقمية‬ ‫للقيمة‬
+### ‫ربط‬ ‫جميع‬ ‫الأشكال‬ ‫الرقمية‬ ‫للقيمة‬
 
 <span class="column-left small" style="height: 13em;"> ![Power system](power_system.svg "No cryptocurrencies left behind!") </span>
 <span class="column-right">

@@ -3,13 +3,13 @@ title: What
 menu: part1
 buttons:
     -
-        text: 'Sign up'
+        text: Newsletter
         url: '#signup'
     -
         text: Whitepaper
         url: /whitepaper_ioc.pdf
     -
-        text: Crowdfunding
+        text: Roadmap
         url: terms
     -
         text: Wiki
