@@ -5,7 +5,7 @@ abouts:
         img: 1.jpg
         heading: '2006-2011'
         subheading: '我们的开始'
-        body: 在我们着手开启项目之时，团队成员就已在包括外汇，商品交易和黄金投资等金融领域取得了丰富的市场经验。我们在自动化交易平台上编程 ，测试了早期的电子资产系统，并开发了多资产交易基础平台。在这个关充满真实和危机的市场条件下，我们相信，一个新的个人理财途径将让你我重新掌握发展中的经济。
+        body: 在我们着手开启项目之时，团队成员就已在包括外汇，商品交易和黄金投资等金融领域取得了丰富的市场经验。我们在自动化交易平台上编程 ，测试了早期的电子资产系统，并开发了多资产交易基础平台。曝光在这个充满真实和危机的市场当中，我们相信，这项新的个人理财途径将让你我重新掌握发展中的经济。
         align: image
     -
         img: 2.jpg
@@ -22,14 +22,14 @@ abouts:
     -
         img: stormwind.jpg
         heading: '2013-2015'
-        subheading: '暴风城加密平台'
-        body: '从2013开始，依据我们之前的开发案例经验，我们打造了暴风城密码交易系统和相的混合资产，分别在2014向社会公布，对提供 <a href="http://nxt.org/" target="_blank">NXT</a> 和 <a href="http://counterparty.io/" target="_blank">Counterparty</a> 市场平台. 暴风系统交易使用API接口交易，管理资金分配。尽管市场艰难，但参与者依旧能够盈利。'
+        subheading: '风暴加密平台'
+        body: '从2013开始，依据之前的开发经验，我们打造了风暴密码交易系统和相的混合资产，分别在2014向社会公布，对提供 <a href="http://nxt.org/" target="_blank">NXT</a> 和 <a href="http://counterparty.io/" target="_blank">Counterparty</a> 市场平台. 风暴系统交易使用API接口交易，管理资金分配。尽管市场艰难，但参与者依旧能够盈利。'
         align: inverted
     -
         img: network.jpg
         heading: '2014'
         subheading: 'Internet of Coins的诞生'
-        body: '随着中心化交易市场的崩溃，对完全分散式交易体系的需求变得清晰。我们没有从一开始就着手筹款，是因为需要确保拥有一个成熟的技术架构以兑现我们的承诺。取而代之的是，我们书写了白皮书，推出<a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a> 了这个网站。由 <a href="https://bitalo.com/" target="_blank">Bitalo</a> 支持我们在初始阶段的种子募集。'
+        body: '随着中心化交易市场的崩溃，对完全分散式交易体系的需求变得清晰。我们没有从一开始就着手筹款，是因为需要确保拥有一个成熟的技术架构以兑现我们的承诺。因此，我们书写了白皮书，推出<a href="http://internetofcoins.org/" target="_blank">internetofcoins.org</a> 了这个网站。由 <a href="https://bitalo.com/" target="_blank">Bitalo</a> 支持我们在初始阶段的种子募集。'
         align: image
     -
         img: recognize.jpg

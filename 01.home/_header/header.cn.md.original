@@ -3,8 +3,8 @@ title: Header
 menu: Top
 buttons:
     -
-        text: '加入暴风雨'
-        url: '#signup'
+        text: '加入风暴'
+        url: '#注册'
 ---
 
-<h3 class="header-font">我们一起开始区块链的自由之路</h3>
+<h3 class="header-font">和我们一同开启区块链的自由革命</h3>
