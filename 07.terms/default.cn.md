@@ -8,7 +8,7 @@ onpage_menu: true
 <h3>"The palest ink is better than the best memory."<br><span style="color:gray;"> -- Chinese proverb</span></h3>
 #### <span style="color: orange;">Early Birds</span>
 Looking for an opportunity to participate before the launch starts?<br>Early Birds are eligible to participate for a price of $0.95 per HYBRID token, 5% below the opening.<br>For the rest, the same rewards apply as for all other participants.
-<br><br>**Interested? Send us an e-mail before March 21st at <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> Minimum entry for Early Bird advantages: 10 BTC.**
+<br><br>**Interested? Send us an e-mail before April 1st at <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> Minimum entry for Early Bird advantages: 10 BTC.**
 <br><br><br>
 #### Overview
 These terms outline the details on how funds raised by the Internet of Coins project will be used, and to which rules the fundraiser as well as its participants are bound. Every effort has been made to spell out a clear and transparent summary of what is contained in the legal terms. If you have any questions, do not hesitate to contact the Internet of Coins team using the contact form on the home page. This summary may be subject to change. The legal terms can be found below.
