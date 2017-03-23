@@ -1,5 +1,5 @@
 ---
-title: '我们的故事'
+title: '故事'
 abouts:
     -
         img: 1.jpg
