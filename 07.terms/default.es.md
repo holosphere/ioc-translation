@@ -26,16 +26,13 @@ en la página de inicio. Este resumen puede estar sujeto a cambios. Las condicio
 #### Responsabilidad
 <span class="column-left" style="width: 200px;"><br>![NLnet](nlnet.png)</span><span class="column-right">Internet of Coins 
 se hace responsable de cómo los fondos recaudados están gastados por la organización de secuestro designada, la 
-<a href="https://nlnet.nl">NLnet Foundation</a>. Todos los pagos, ya sean regulares o generosos, deben ser solicitados antes 
-de que se puedan gastar los fondos, para salvaguardar la situación financiera de Internet of Coins, y para asegurarse de que 
-los desarrollos pueden avanzar de manera estable y ordenada. De esta manera, todos los fondos otorgados por los participantes 
-del <i>crowdfunding</i> están legal y procesalmente salvaguardados.</span>
+<a href="https://nlnet.nl">NLnet Foundation</a>. Todos los pagos, ya sean regulares o de recompensas, deben ser solicitados antes de que se puedan gastar los fondos, para salvaguardar la situación financiera de Internet of Coins, y para asegurarse de que los desarrollos pueden avanzar de manera estable y ordenada. De esta manera, todos los fondos otorgados por los participantes del crowdfunding están legal y procesalmente salvaguardados.</span>
 <br><br>
 El siguiente gráfico circular muestra un resumen de cómo se asignarán los fondos recaudados en el proyecto.<br />
-En resumen, a medida que crecen los procedimientos de crowdfund, tenemos la intención de ampliar más en los desarrolladores 
-y las recompensas de la comunidad.<br />
+En resumen, a medida que crecen los procedimientos de crowdfund, tenemos la intención de ampliar más en el desarrollo 
+y las recompensas comunitarias.<br />
 <iframe src="/piechart/index.html" frameborder="0" style="width: 100%; height: 460px; border: 0px solid #CCC; border-radius: 12px;">
-Se necesita un navegador con capacidad de marcos para acceder al gráfico circular que detalla el gasto ronda de financiación.
+Se necesita un navegador con capacidad de marcos para acceder al gráfico circular que detalla el gasto de esta ronda de financiación.
 </iframe>
 #### Hitos
 En la siguiente hoja de ruta presentamos los hitos que el proyecto debe alcanzar cada trimestre en el futuro.
