@@ -29,7 +29,7 @@ Internet of Coins团队的项目经理以及推荐委员会将跟踪项目的进
 #### 令牌
 分发至Internet of Coins的令牌被称为HYBRID。项目初期，这些令牌可以在七个不同的区块链生态体系中有效，即 <a href="https://bitcoin.com" target="_blank">比特币</a> (BTC), <a href="https://ethereum.org" target="_blank">以太币</a> (ETH), <a href="https://counterparty.io" target="_blank">合约币</a> (XCP), <a href="http://nxt.org/" target="_blank">未来币</a> (NXT), <a href="https://www.nem.io/" target="_blank">新经币</a> (XEM), <a href="https://wavesplatform.com/" target="_blank">波币</a> (WAVES) and <a href="https://bitshares.org/" target="_blank">比特股</a> (BTS).
 每个生态体系将有1000000（100万）个令牌，其中900000（90万）个令牌将提供给众筹参与者。剩下的100000（十万）个令牌，将用于众筹奖励。
-<span class="column-left"><br>众筹期间间，每个HYBRID令牌的价格将随着时间的推移而增加。一旦筹款结束，令牌不会受到通货膨胀的束缚。<br><br>此外，只要项目能够按计划进行，众筹令牌持有人将在筹款活动三年内获得奖励。奖励将以下列形式下发：<small><br>
+<span class="column-left"><br>众筹期间，每个HYBRID令牌的价格将随着时间的推移而增加。一旦筹款结束，令牌不会受到通货膨胀的束缚。<br><br>此外，只要项目能够按计划进行，众筹令牌持有人将在筹款活动三年内获得奖励。奖励将以下列形式下发：<small><br>
 in 2018 5% of remaining 10% reserved tokens,<br>
 in 2019 3% of remaining 10% reserved tokens,<br>
 in 2020 2% of remaining 10% reserved tokens,<br></small>
