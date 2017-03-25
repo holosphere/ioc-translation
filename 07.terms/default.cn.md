@@ -8,7 +8,7 @@ onpage_menu: true
 <h3>“好记性不如烂笔头”<br><span style="color:gray;"> ——中国谚语</span></h3>
 #### <span style="color: orange;">先行计划</span>
 想在正式筹款发起前参与项目吗？<br>参与先行计划能够以$0.95/HYBRID令牌的价格参与筹款活动，此价格比开盘价低5％。<br>每位参与者都将得到同样的奖励。.
-<br><br>**感兴趣吗？ 在4月1日前发送电子邮件至 <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> 参加先行计划的最低投资为10,000 USD 或等值加密货币。**
+<br><br>**感兴趣吗？ 在4月1日前发送电子邮件至 <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> 参与特惠先行计划的最低投入为10BTC或等值加密货币。**
 <br><br><br>
 #### 概述
 下列条款概述了Internet of Coins项目将如何运用筹款的细节，同时说明筹款人即参与人需遵守哪些规则。我们尽力明确而透明地总结了法律条款中的内容。如果您有任何问题，请不要犹豫使用主页上的联系方式联系我们。此概述可能会因需更改。法律条款可以在下面找到。
