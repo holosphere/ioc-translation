@@ -6,19 +6,19 @@ onpage_menu: true
 
 ## 条款
 <h3>“好记性不如烂笔头”<br><span style="color:gray;"> ——中国谚语</span></h3>
-#### <span style="color: orange;">Early Birds</span>
-Looking for an opportunity to participate before the launch starts?<br>Early Birds are eligible to participate for a price of $0.95 per HYBRID token, 5% below the opening.<br>For the rest, the same rewards apply as for all other participants.
-<br><br>**Interested? Send us an e-mail before April 1st at <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> Minimum entry for Early Bird advantages: 10,000 USD or its equivalent in cryptocurrency.**
+#### <span style="color: orange;">早起鸟计划</span>
+想在正式筹款发起前参与项目吗？<br>参与早起鸟计划能够以$0.95/HYBRID令牌的价格参与筹款活动，此价格比开盘价低5％。<br>每位参与者都将得到同样的奖励。.
+<br><br>**感兴趣吗？ 在4月1日前发送电子邮件至 <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> 参加早鸟计划的最低投资为10,000 USD 或等值加密货币。**
 <br><br><br>
-#### Overview
-These terms outline the details on how funds raised by the Internet of Coins project will be used, and to which rules the fundraiser as well as its participants are bound. Every effort has been made to spell out a clear and transparent summary of what is contained in the legal terms. If you have any questions, do not hesitate to contact the Internet of Coins team using the contact form on the home page. This summary may be subject to change. The legal terms can be found below.
+#### 概述
+下列条款概述了Internet of Coins项目将如何运用筹款的细节，同时说明筹款人即参与人需遵守哪些规则。我们尽力明确而透明地总结了法律条款中的内容。如果您有任何问题，请不要犹豫使用主页上的联系方式联系我们。此概述可能会因需更改。法律条款可以在下面找到。
 <br><br>
-#### Accountability
-<span class="column-left" style="width: 200px;"><br>![NLnet](nlnet.png)</span><span class="column-right">Internet of Coins is held accountable to how collected funds are being spent by the appointed sequestration organization, the <a href="https://nlnet.nl" target="_blank">NLnet Foundation</a>. Every payment, whether regular or bounty, must be requested before funds can be spent, to safeguard the financial situation of Internet of Coins, and to make sure developments can proceed in a steady and orderly fashion. In this way all funds vested by crowdfunding participants are legally and procedurally safeguarded. You can read the written agreement <a href="https://coinstorm.net/terms/NLnet_letter.pdf" target="_blank">here</a>.</span>
+#### 责任
+<span class="column-left" style="width: 200px;"><br>![NLnet](nlnet.png)</span><span class="column-right">Internet of Coins对于指定机构 <a href="https://nlnet.nl" target="_blank">NLnet基金会如何收集的资金负责</a>. 每笔支付，无论是定期支付或者赏金都必须是在资金可通行的前提下进行，以维护Internet of Coins的财务状况，通时确保我们的项目能够以稳定有序的方式发展。以这种方式，众筹参与者的所有资金才能得到法律和程序的保护。相关协议请点击 <a href="https://coinstorm.net/terms/NLnet_letter.pdf" target="_blank">此链接</a>.</span>
 <br><br>
-The pie chart below gives an overview of how collected funds will be allocated in the project.<br />
-In short, as crowdfund proceedings grow, we intend to scale up more in developers and community bounties.<br />
-<iframe src="/piechart/index.html" frameborder="0" style="width: 100%; height: 460px; border: 0px solid #CCC; border-radius: 12px;">You need a frames capable browser to access the pie chart detailing funding round spending.</iframe>
+下列饼图概述了项目将如何分配筹得的资金。<br />
+简而言之，随着众筹的增加，我们计划加大开发力度和增加社区赏金。<br />
+<iframe src="/piechart/index.html" frameborder="0" style="width: 100%; height: 460px; border: 0px solid #CCC; border-radius: 12px;">请下载能够显示图表的浏览器以查阅饼图</iframe>
 #### Milestones
 In the following roadmap we present the milestones the project is to reach every quarter in the time ahead.
 <br><br>
