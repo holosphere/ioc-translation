@@ -11,10 +11,10 @@ onpage_menu: true
 <br><br>**感兴趣吗？ 在4月1日前发送电子邮件至 <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> 参与特惠先行计划的最低投入为10BTC或等值加密货币。**
 <br><br><br>
 #### 概述
-下列条款概述了Internet of Coins项目将如何运用筹款的细节，同时说明筹款人即参与人需遵守哪些规则。我们尽力明确而透明地总结了法律条款中的内容。如果您有任何问题，请不要犹豫使用主页上的联系方式联系我们。此概述可能会因需更改。法律条款可以在下面找到。
+下列条款概述了Internet of Coins项目将如何运用筹款的细节，同时说明筹款人即参与人需遵守哪些规则。我们尽力明确而透明地总结了法律条款中的内容。如果您有任何问题，请随时使用主页上的联系方式联系我们。此概述可能会因需修改。法律条款可在下方找到。
 <br><br>
 #### 责任
-<span class="column-left" style="width: 200px;"><br>![NLnet](nlnet.png)</span><span class="column-right">Internet of Coins对于指定机构 <a href="https://nlnet.nl" target="_blank">NLnet基金会如何收集的资金负责</a>. 每笔支付，无论是定期支付或者赏金都必须是在资金可通行的前提下进行，以维护Internet of Coins的财务状况，通时确保我们的项目能够以稳定有序的方式发展。以这种方式，众筹参与者的所有资金才能得到法律和程序的保护。相关协议请点击 <a href="https://coinstorm.net/terms/NLnet_letter.pdf" target="_blank">此链接</a>.</span>
+<span class="column-left" style="width: 200px;"><br>![NLnet](nlnet.png)</span><span class="column-right">Internet of Coins对于指定机构 <a href="https://nlnet.nl" target="_blank">NLnet基金会如何收集的资金负责</a>。 每笔支付，无论是定期支付或者赏金都必须在资金可通行的前提下进行，以维护Internet of Coins的财务现状，同时确保我们的项目能够以稳定有序的方式发展。以这种方式，众筹参与者的所有资金才能得到法律和程序的保护。相关协议请点击 <a href="https://coinstorm.net/terms/NLnet_letter.pdf" target="_blank">此链接</a>.</span>
 <br><br>
 下列饼图概述了项目将如何分配筹得的资金。<br />
 简而言之，随着众筹的增加，我们计划加大开发力度和增加社区赏金。<br />
