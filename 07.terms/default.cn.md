@@ -52,10 +52,10 @@ in 2020 2% of remaining 10% reserved tokens,<br></small>
 </tbody></table></center>
 <br><br>
 #### 法律声明
-Please note that this summary of the terms does not constitute to be a prospectus of any sort, is not a solicitation for investment or an initial public offering or share/equity offering and does not pertain in any way to an offering of securities in any jurisdiction.
-The contribution to the Internet of Coins project does not involve the exchange of cryptocurrencies for any form of ordinary shares, neither does the HYBRID token holder receive any form of guaranteed dividend or other revenue right. HYBRID token only provide their holder – if and to the extent the IoC environment is successfully developed and deployed – with a right to use the IoC environment (usage license).
-This crowdfund will not involve any fiat currencies and will strictly be done in cryptocurrencies.
+请注意，本条款概要并不构成任何形式的招股书，未发起投资或首次公开发行股份、股权投资，在任何司法权限下不以任何方式提供债券及有价证券。
+对Internet of Coins项目的投入不涉及任何形式的加密货币交易或普通股交易，HYBRID令牌持有人也不会获得任何形式的担保股利或其他收入权。 HYBRID令牌只提供其持有者，在成功开发和部署了IoC环境的条件下—— 有权使用IoC环境（使用许可证）。
+本众筹项目不涉及任何法定货币，所有交易将严格在加密货币中进行。
 <br><br>
-The full legal version of the terms can be downloaded here in PDF format. Users are advised to read this before participating in the crowdfund.<br><br>
+获取完整法定版本请下载PDF文件，建议用户在参加众筹前仔细阅读。<br><br>
 <a class="page-scroll btn btn-xl" href="/IoC_crowdfund_terms.pdf" target="_blank">legal terms</a>
 <br><br>
