@@ -44,6 +44,34 @@ people:
                 title: twitter
                 url: 'https://twitter.com/holosphere_org'
     -
+        name: 'Ronny Boesing'
+        pic: ronny.jpg
+        position: 'Внешний консультант'
+        social:
+            -
+                title: facebook
+                url: 'https://www.facebook.com/ronny.boesing'
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/ronny-boesing-65b61720'
+            -
+                title: twitter
+                url: 'https://twitter.com/CCEDKOpenLedger'
+    -
+        name: 'Luca Verhees'
+        pic: 14.jpg
+        position: 'UX/UI дизайнер'
+        social:
+            -
+                title: github
+                url: github.com/lucaverhees
+            -
+                title: linkedin
+                url: linkedin.com/in/lucaverhees
+            -
+                title: twitter
+                url: twitter.com/lucaverhees
+    -
         name: 'Steffen Hoffmann'
         pic: 7.jpg
         position: Разработчик
@@ -57,20 +85,6 @@ people:
             -
                 title: twitter
                 url: 'https://twitter.com/rznag'
-    -
-        name: 'Aymeric Vitte'
-        pic: 13.jpg
-        position: Исследователь
-        social:
-            -
-                title: github
-                url: 'https://github.com/Ayms'
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/aymeric-vitte-05855b26'
-            -
-                title: twitter
-                url: 'https://twitter.com/p2peersm'
     -
         name: 'Jelle Herold'
         pic: 4.jpg
@@ -111,6 +125,20 @@ people:
                 title: twitter
                 url: 'https://twitter.com/Marjon1990'
     -
+        name: 'Aymeric Vitte'
+        pic: 13.jpg
+        position: Исследователь
+        social:
+            -
+                title: github
+                url: 'https://github.com/Ayms'
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/aymeric-vitte-05855b26'
+            -
+                title: twitter
+                url: 'https://twitter.com/p2peersm'
+    -
         name: 'Pim Weltevrede'
         pic: 8.jpg
         position: Маркетолог
@@ -150,13 +178,32 @@ people:
                 title: twitter
                 url: 'https://twitter.com/georgermzeeman'
     -
+        name: 'Bas Wisselink'
+        pic: 16.jpg
+        position: 'Блокчейн советник'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/bwisselink'
+            -
+                title: twitter
+                url: 'https://twitter.com/damelonnxt'
+    -
         name: 'Marietje Kardaun'
         pic: 12.jpg
-        position: 'Советник'
+        position: 'Советник по этике'
         social:
             -
                 title: linkedin
                 url: 'https://www.linkedin.com/in/marietje-kardaun-1040a730'
+    -
+        name: 'Hans Schaaij'
+        pic: 15.jpg
+        position: 'Советник'
+        social:
+            -
+                title: facebook
+                url: 'https://nl-nl.facebook.com/public/Hans-Schaaij'
 description: ''
 ---
 
