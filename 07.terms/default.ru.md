@@ -28,19 +28,19 @@ The project manager of the Internet of Coins team, along with the board of recom
 <br><br>
 #### Токены
 Токен, распределяемые проектом Internet of Coins называются HYBRID. Первоначально они будут доступны одновременно на семи различных блокчейн экосистемах, а именно <a href="https://bitcoin.com" target="_blank">Bitcoin</a> (BTC), <a href="https://ethereum.org" target="_blank">Ethereum</a> (ETH), <a href="https://counterparty.io" target="_blank">CounterParty</a> (XCP), <a href="http://nxt.org/" target="_blank">NXT Platform</a> (NXT), <a href="https://www.nem.io/" target="_blank">New Economy Movement</a> (XEM), <a href="https://wavesplatform.com/" target="_blank">Waves Platform</a> (WAVES) и <a href="https://bitshares.org/" target="_blank">Bitshares</a> (BTS).
-В каждой из экосистем будет доступен 1000000 (один миллион) токенов. During the crowdfund 900000 (nine hundred thousand) of these tokens will be offered to those taking part. 100000 (one hundred thousand) tokens will be reserved for crowdfund reward payouts.
-<span class="column-left"><br>During the crowdfund the price per HYBRID token will increase over time. Once the fundraiser is over, tokens will not be subject to inflation other than the moments that HYBRID is expanded to new blockchains.<br><br>Furthermore, as long as the project has the ability to proceed as planned, crowdfund token holders will receive rewards in the three years following the fundraiser. These will be distributed as follows:<small><br>
-in 2018 5% of remaining 10% reserved tokens,<br>
-in 2019 3% of remaining 10% reserved tokens,<br>
-in 2020 2% of remaining 10% reserved tokens,<br></small>
-In addition, token holders will receive a 5% token bonus of every new blockchain assetsystem officially hooked up to HYBRID by the Internet of Coins team.</span><span class="column-right">![Price Ramp During Fundraiser](prince_ramp.png)<br>
-<em>X-axis: week number, Y-axis: price factor</em></span>
+В каждой из экосистем будет доступен 1000000 (один миллион) токенов. Во время краудфандинга 900000 (девятьсот тысяч) из них будут распределены между его участниками. 100000 (сто тысяч) токенов будет зарезервировано под выплаты краудфандинговых вознаграждений (см. ниже).
+<span class="column-left"><br>Во время краудфандинга цена HYBRID токенов будет со временем увеличиваться. После окончания сбора средств количество токенов не будет увеличиваться кроме случаев расширения платформы на новых блокчейнах с соответствующим выпуском токенов.<br><br>Также, по мере продолжения проекта владельцы токенов будут получать вознаграждения в течение трех лет после кампании по сбору средств. Вознаграждения будут распределятся следующим образом:<small><br>
+в 2018 – 5% от оставшихся 10% зарезервированных токенов,<br>
+в 2019 – 3% от оставшихся 10% зарезервированных токенов,<br>
+в 2020 – 2% от оставшихся 10% зарезервированных токенов,<br></small>
+В дополнение к этому, владельцы токенов получат дополнительный бонус в размере 5% при каждом добавлении новой блокчейн системы в HYBRID экосистему командой Internet of Coins.</span><span class="column-right">![Price Ramp During Fundraiser](prince_ramp.png)<br>
+<em>X-axis: номер недели, Y-axis: множитель цены</em></span>
 <br><br>
 #### Важно
-Listed below are the official addresses on which funds are to be received. Any other address than those mentioned below is invalid and not part of the Internet of Coins crowdfund. Users must check carefully when participating that addresses in their wallet software are correct, in order to avoid sending their funds to the wrong address.
+Ниже приведен официальный список адресов на которые принимаются средства. Любой другой адрес кроме приведенных ниже не является часть краудфандинговой кампании Internet of Coins. Users must check carefully when participating that addresses in their wallet software are correct, in order to avoid sending their funds to the wrong address.
 <br>
 <center><table style="text-align: left;">
-<thead><tr><th>Symbol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Public key address</th></tr></thead>
+<thead><tr><th>Криптовалюта &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Адрес кошелька</th></tr></thead>
 <tbody>
 <tr><td>BTC</td><td>14aV8dULoL67i6xQncfmFsbFaEtpRKskC2</td></tr>
 <tr><td>XCP</td><td>1BshWVmV1o4ZPWRvTGVMGsXMmQaV1qAouw</td></tr>
@@ -56,6 +56,6 @@ Please note that this summary of the terms does not constitute to be a prospectu
 The contribution to the Internet of Coins project does not involve the exchange of cryptocurrencies for any form of ordinary shares, neither does the HYBRID tokens holder receive any form of guaranteed dividend or other revenue right. HYBRID tokens only provide their holder – if and to the extent the IoC environment is successfully developed and deployed – with a right to use the IoC environment (usage license).
 This crowdfund will not involve any fiat currencies and will strictly be done in cryptocurrencies.
 <br><br>
-The full legal version of the terms can be downloaded here in PDF format. Users are advised to read this before participating in the crowdfund.<br><br>
+Полная официальная версия условий может быть загружена здесь в формате PDF. Мы рекомендую пользователям ознакомится с ними перед участием в кампании по сбору средств.<br><br>
 <a class="page-scroll btn btn-xl" href="/IoC_crowdfund_terms.pdf" target="_blank">legal terms</a>
 <br><br>
