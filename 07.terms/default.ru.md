@@ -5,9 +5,9 @@ onpage_menu: true
 ---
 
 ## Условия
-<h3>"The palest ink is better than the best memory."<br><span style="color:gray;"> -- Китайская пословица</span></h3>
+<h3>"Самые бледные чернила лучше, чем наилучшая память."<br><span style="color:gray;"> -- Китайская пословица</span></h3>
 #### <span style="color: orange;">Early Birds</span>
-Looking for an opportunity to participate before the launch starts?<br>Early Birds are eligible to participate for a price of $0.95 per HYBRID token, 5% below the opening price.<br>Further, the same rewards apply as for all other participants.
+Ищете возможность принять участие в кампании до ее начала?<br>Ранние последователи (Early Birds) имеют право на участие в краудфандинге по цене $0.95 за HYBRID токен, на 5% ниже цены после официального старта кампании.<br>В последствии, участники получают все те же вознаграждения, что и остальные.
 <br><br>**Вам интересны такие условия? Тогда свяжитесь с нами по e-mail <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a> до 1 апреля.<br /> Минимальный входной порог в программу раннего краудфандига – 10 BTC или его эквивалент в любой другой валюте с которой мы работаем.**
 <br><br><br>
 #### Обзор
