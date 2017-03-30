@@ -54,7 +54,6 @@ Listed below are the official addresses on which funds are to be received. Any o
 #### Legal
 Please note that this summary of the terms does not constitute to be a prospectus of any sort, is not a solicitation for investment or an initial public offering or share/equity offering and does not pertain in any way to an offering of securities in any jurisdiction.
 The contribution to the Internet of Coins project does not involve the exchange of cryptocurrencies for any form of ordinary shares, neither does the HYBRID tokens holder receive any form of guaranteed dividend or other revenue right. HYBRID tokens only provide their holder – if and to the extent the IoC environment is successfully developed and deployed – with a right to use the IoC environment (usage license).
-This crowdfund will not involve any fiat currencies and will strictly be done in cryptocurrencies.
 <br><br>
 The full legal version of the terms can be downloaded here in PDF format. Users are advised to read this before participating in the crowdfund.<br><br>
 <a class="page-scroll btn btn-xl" href="/IoC_crowdfund_terms.pdf" target="_blank">legal terms</a>
