@@ -16,7 +16,7 @@ These terms outline the details on how funds raised by the Internet of Coins pro
 #### Ответственность
 <span class="column-left" style="width: 200px;"><br>![NLnet](nlnet.png)</span><span class="column-right">Internet of Coins is held accountable to how collected funds are being spent by the appointed sequestration organization, the <a href="https://nlnet.nl" target="_blank">NLnet Foundation</a>. Every payment, whether regular or bounty, must be requested before funds can be spent, to safeguard the financial situation of Internet of Coins, and to make sure developments can proceed in a steady and orderly fashion. In this way all funds vested by crowdfunding participants are legally and procedurally safeguarded. Read more <a href="https://coinstorm.net/terms/NLnet_letter.pdf">here</a>.</span>
 <br><br>
-The pie chart below gives an overview of how collected funds will be allocated in the project.<br />
+Диаграмма показывает каким образом собранные средства будут использованы в проектной деятельности.<br />
 In short, as crowdfund proceedings grow, we intend to scale up more in development and community bounties.<br />
 <iframe src="/piechart/index.html" frameborder="0" style="width: 100%; height: 460px; border: 0px solid #CCC; border-radius: 12px;">You need a frames capable browser to access the pie chart detailing funding round spending.</iframe>
 #### Milestones
