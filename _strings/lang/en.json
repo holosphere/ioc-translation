@@ -61,7 +61,7 @@
 	"sum-txid":"Transaction ID",
 	"thanks":"Thank you for being part of our journey.<br>We have received your registration, and sent you an e-mail with this summary.",
 	"sendfiat-a":"Now send your",
-	"sendfiat-b":"to the following bank account,<br>and <u>add your PIN</u> in the description:<br><big><b><table><tbody><tr><td>BENEFICIARY: </td><td>NLnet</td></tr><tr><td>IBAN: </td><td>blabla</td></tr><tr><td>BIC: </td><td>bla</td></tr></tbody></table></b></big> <br><br>Instead you may also send USDT to this address",
+	"sendfiat-b":"to the following bank account, <br>paying the correct amount in <b>dollars</b>, <b>euro</b>, or <b>yen</b>, <br>and <u>put \"IoC\" plus your PIN in the description</u>:<br><big><b><table><tbody><tr><td>BENEFICIARY: </td><td><b>Stichting NLnet</b></td></tr><tr><td><br></td></tr><tr><td>IBAN: </td><td><b>NL30INGB0007228890</b></td></tr><tr><td>BIC/SWIFT: </td><td><b>INGBNL2A</b></td></tr><tr><td><br></td></tr><tr><td>BANK: </td><td><b>ING Bank NV<br>P/O Box 1800<br>1000 BV Amsterdam<br>The Netherlands</b></td></tr></tbody></table></b></big> <br><br>Instead you may also send USDT to this address",
 	"sendfiat-c":"NOTE: Payment means you agree to our terms!",
 	"sendfiat-d":"Instead, you can also send USDT to this address",
 	"usdt-only":"(only if you are using USDT)",
