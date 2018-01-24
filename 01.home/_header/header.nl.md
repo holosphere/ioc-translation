@@ -4,5 +4,5 @@ menu: Top
 ---
 
 <h3 class="header-font">blockchain vrijheids(<i>r</i>)evolutie</h3>
-<a href="crowdfund" class="btn btn-xl" style="margin-top: 4px; margin-bottom: -50px; background-color: #90cc90; border-color: green;"><i class="fa fa-rocket"></i> meedoen aan crowdfund</a>
-<a href="terms" class="btn btn-xl" style="margin-top: 4px; margin-bottom: -50px;"><i class="fa fa-legal"></i> regels</a>
+<h3 style="margin-top: 0;">Total amount of HYBRID issued: 700,000+</h3>
+<a href="crowdfund" class="btn btn-xl" style="margin-top: 4px; margin-bottom: -50px; background-color: #90aaaa; border-color:#90cccc;"><i class="fa fa-flag-checkered"></i> crowdfund stats</a><br><br>

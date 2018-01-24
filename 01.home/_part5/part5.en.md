@@ -44,34 +44,6 @@ people:
                 title: twitter
                 url: 'https://twitter.com/holosphere_org'
     -
-        name: 'Ronny Boesing'
-        pic: ronny.jpg
-        position: 'External Consultant'
-        social:
-            -
-                title: facebook
-                url: 'https://www.facebook.com/ronny.boesing'
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/ronny-boesing-65b61720'
-            -
-                title: twitter
-                url: 'https://twitter.com/CCEDKOpenLedger'
-    -
-        name: 'Luca Verhees'
-        pic: 14.jpg
-        position: 'UX/UI Designer'
-        social:
-            -
-                title: github
-                url: github.com/lucaverhees
-            -
-                title: linkedin
-                url: linkedin.com/in/lucaverhees
-            -
-                title: twitter
-                url: twitter.com/lucaverhees
-    -
         name: 'Steffen Hoffmann'
         pic: 7.jpg
         position: Developer
@@ -86,19 +58,19 @@ people:
                 title: twitter
                 url: 'https://twitter.com/rznag'
     -
-        name: 'Jelle Herold'
-        pic: 4.jpg
-        position: Cryptographer
+        name: 'Luca Verhees'
+        pic: 14.jpg
+        position: 'UX/UI Designer'
         social:
             -
                 title: github
-                url: 'https://github.com/wires'
+                url: 'https://github.com/lucaverhees'
             -
                 title: linkedin
-                url: 'https://nl.linkedin.com/in/wires'
+                url: 'https://linkedin.com/in/lucaverhees'
             -
                 title: twitter
-                url: 'https://twitter.com/statebox'
+                url: 'https://twitter.com/lucaverhees'
     -
         name: 'Sergey Kazenyuk'
         pic: 5.jpg
@@ -114,16 +86,19 @@ people:
                 title: twitter
                 url: 'https://twitter.com/sergeykazenyuk'
     -
-        name: 'Marjon Riehl'
-        pic: 10.jpg
-        position: 'Translation Coordinator'
+        name: 'George Zeeman'
+        pic: 11.jpg
+        position: 'Project Manager'
         social:
             -
+                title: github
+                url: 'https://github.com/mcgeorge'
+            -
                 title: linkedin
-                url: 'https://www.linkedin.com/in/marjon-riehl-aa081386/'
+                url: 'https://www.linkedin.com/in/georgezeeman'
             -
                 title: twitter
-                url: 'https://twitter.com/Marjon1990'
+                url: 'https://twitter.com/georgermzeeman'
     -
         name: 'Aymeric Vitte'
         pic: 13.jpg
@@ -139,6 +114,66 @@ people:
                 title: twitter
                 url: 'https://twitter.com/p2peersm'
     -
+        name: 'Jelle Herold'
+        pic: 4.jpg
+        position: Cryptographer
+        social:
+            -
+                title: github
+                url: 'https://github.com/wires'
+            -
+                title: linkedin
+                url: 'https://nl.linkedin.com/in/wires'
+            -
+                title: twitter
+                url: 'https://twitter.com/statebox'
+    -
+        name: 'Hans Schaaij'
+        pic: 15.jpg
+        position: 'Community Advisor'
+        social:
+            -
+                title: facebook
+                url: 'https://nl-nl.facebook.com/public/Hans-Schaaij'
+    -
+        name: 'Kirsten Lamberink'
+        pic: kirsten.jpg
+        position: 'Accountability Advisor'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/bwisselink'
+            -
+                title: twitter
+                url: 'https://twitter.com/damelonnxt'
+    -
+        name: 'Bas Wisselink'
+        pic: 16.jpg
+        position: 'Blockchain Advisor'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/bwisselink'
+            -
+                title: twitter
+                url: 'https://twitter.com/damelonnxt'
+    -
+        name: 'Ioana Deleanu, PhD'
+        pic: Ioana.jpg
+        position: 'Policy Advisor'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/ioanadeleanu'
+    -
+        name: 'Marietje Kardaun'
+        pic: 12.jpg
+        position: 'Ethics Advisor'
+        social:
+            -
+                title: linkedin
+                url: 'https://www.linkedin.com/in/marietje-kardaun-1040a730'
+    -
         name: 'Pim Weltevrede'
         pic: 8.jpg
         position: Marketeer
@@ -153,57 +188,16 @@ people:
                 title: twitter
                 url: 'https://twitter.com/Weltevrede_IT'
     -
-        name: 'Matthias Klees'
-        pic: 6.jpg
-        position: Evangelist
+        name: 'Marjon Riehl'
+        pic: 10.jpg
+        position: 'Translation Coordinator'
         social:
             -
                 title: linkedin
-                url: 'https://www.linkedin.com/in/szenekonzept'
+                url: 'https://www.linkedin.com/in/marjon-riehl-aa081386/'
             -
                 title: twitter
-                url: 'https://twitter.com/europecoinEUORG'
-    -
-        name: 'George Zeeman'
-        pic: 11.jpg
-        position: 'Project Manager'
-        social:
-            -
-                title: github
-                url: 'https://github.com/mcgeorge'
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/georgezeeman'
-            -
-                title: twitter
-                url: 'https://twitter.com/georgermzeeman'
-    -
-        name: 'Bas Wisselink'
-        pic: 16.jpg
-        position: 'Blockchain Advisor'
-        social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/bwisselink'
-            -
-                title: twitter
-                url: 'https://twitter.com/damelonnxt'
-    -
-        name: 'Marietje Kardaun'
-        pic: 12.jpg
-        position: 'Ethics Advisor'
-        social:
-            -
-                title: linkedin
-                url: 'https://www.linkedin.com/in/marietje-kardaun-1040a730'
-    -
-        name: 'Hans Schaaij'
-        pic: 15.jpg
-        position: 'Community Advisor'
-        social:
-            -
-                title: facebook
-                url: 'https://nl-nl.facebook.com/public/Hans-Schaaij'
+                url: 'https://twitter.com/Marjon1990'
 description: ''
 ---
 

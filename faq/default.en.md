@@ -44,7 +44,7 @@ visible: true
 <input id="ac-104" name="accordion-1" type="checkbox" />
 <label for="ac-104">What is the current state of Internet of Coins?</label>
 <article class="ac-huge">
-<p>Currently we have a fully working command-line client with an alpha wallet front-end in testing with a group of users in the Netherlands. This has been in development for two years. The wallet can be used to deterministically store and transfer a variety of cryptocurrencies. Our weavechain is currently in development and its testnet has not yet been deployed.
+<p>Currently we have a fully working command-line client with an alpha wallet front-end in testing with a group of users in the Netherlands. This has been in development for two years. The wallet can be used to deterministically store and transfer a variety of cryptocurrencies. Next to that we are developing an n-curses/blessed command line wallet. Our weavechain is currently in development and its testnet has not yet been deployed.
 <br><center><img src="/user/pages/faq/hybridd_starting.gif"></center></p>
 </article>
 </div>
@@ -57,7 +57,7 @@ visible: true
 
 <div>
 <input id="ac-203" name="accordion-1" type="checkbox" />
-<label for="ac-203">When does the fundraiser start?</label>
+<label for="ac-203">When did the fundraiser start?</label>
 <article class="ac-small">
 <p>March 21st 2017, 10.00 AM (UTC time), in celebration of the first day of spring.</p>
 </article>
@@ -65,17 +65,17 @@ visible: true
 
 <div>
 <input id="ac-201" name="accordion-1" type="checkbox" />
-<label for="ac-201">What are the terms for the fundraiser?</label>
+<label for="ac-201">What were the terms for the fundraiser?</label>
 <article class="ac-medium">
-<p>Currently, we are running them through our legal counsel. They will be posted online before the fundraiser starts.</p>
+<p>The terms for our fundraiser can be found here: <a href="/terms">link to terms</a>.</p>
 </article>
 </div>
 
 <div>
 <input id="ac-202" name="accordion-1" type="checkbox" />
-<label for="ac-202">What do I get for participating in the fundraiser?</label>
+<label for="ac-202">What did people get for participating in the fundraiser?</label>
 <article class="ac-large">
-<p>1 token will be gifted for every USD donated to the project, as soon as the fundraiser starts. During the fundraiser, the cost per token rises according to time progression and scarcity.</p>
+<p>1 token was be gifted for every USD donated to the project, as soon as the fundraiser started.</p>
 </article>
 </div>
 
@@ -83,7 +83,7 @@ visible: true
 <input id="ac-204" name="accordion-1" type="checkbox" />
 <label for="ac-204">How will tokens be distributed to fundraiser participants?</label>
 <article class="ac-small">
-<p>Tokens will be released on the blockchain of your choosing. Due to the hybrid nature of the token, it can be used on multiple blockchains. More information will be made available in the upcoming weeks.</p>
+<p>Tokens will be released on the blockchain of your choosing. Due to the hybrid nature of the token, it can be used on multiple blockchains. More information will be made available towards Q1 2018.</p>
 </article>
 </div>
 
@@ -91,7 +91,7 @@ visible: true
 <input id="ac-205" name="accordion-1" type="checkbox" />
 <label for="ac-205">When will tokens be released to fundraiser participants?</label>
 <article class="ac-small">
-<p>July 1st 2017, we will release the tokens to fundraiser participants.</p>
+<p>From July 1st 2017, we started releasing the tokens to fundraiser participants to those who wanted to be early holders. Early holders needed to have enough technical expertise to create seven wallets on different blockchain systems. In Q1 2018 we will distribute tokens to the Internet of Coins beta wallets of the other users.</p>
 </article>
 </div>
 
@@ -100,9 +100,7 @@ visible: true
 <label for="ac-207">What can I do with Internet of Coins tokens?</label>
 <article class="ac-medium">
 <p>Hybrid tokens serve mainly two purposes. First of all they provide a coherent store of value across multiple blockchains, diversifying risk.
-Secondly, they will serve as the vehicle to swap value between the different chains they are registered on. This will allow you to exchange value with users without the need for a centralized external third party. The network will split and divide escrow transactions, swarming them over network users to confirm transactions. 
-
-Tokens are freely tradable after July 1st, 2017.</p>
+Secondly, they will serve as the vehicle to swap value between the different chains they are registered on. This will allow you to exchange value with users without the need for a centralized external third party. The network will split and divide escrow transactions, swarming them over network users to confirm transactions.</p>
 </article>
 </div>
 

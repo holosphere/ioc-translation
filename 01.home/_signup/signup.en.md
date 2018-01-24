@@ -4,9 +4,9 @@ cache_enable: false
 ---
 
 ## Get the latest news
-### Join us to start the blockchain freedom (r)evolution!
+### Join us to power the blockchain freedom (r)evolution!
 
-<big><b>Fundraiser launches on 21.03.2017 at 10:00 UTC.</b></big>
+<big><b>We regularly post news about our project.</b></big>
 <br><br>
 Enter your e-mail address, and we will keep you updated about<br>
-the launch of our platform, and how you can participate in the fundraiser.
+the implementation of our wallet environment, and how you can help out.
