@@ -11,7 +11,7 @@ onpage_menu: true
 <br>Las Early Birds son elegibles para participar por un precio de $ 0,95 de dólares americanos por ficha HYBRID, 
 un 5% bajo el precio de apertura.
 <br>Además, las mismas recompensas son válidas para todos los demás participantes.
-<br><br>**¿Interesado? Envíenos un correo electrónico antes del 21 de marzo a 
+<br><br>**¿Interesado? Envíenos un correo electrónico antes del 1 de abril a 
 <a href="mailto:earlybirds@internetofcoins.org">earlybirds@internetofcoins.org</a>.<br /> 
 Entrada mínima para las ventajas Early Bird: 10 BTC.**
 <br><br><br>
@@ -75,7 +75,7 @@ comprobar cuidadosamente al participar que las direcciones en su software de mon
 el envío de sus fondos a la dirección equivocada.
 <br>
 <center><table style="text-align: left;">
-<thead><tr><th>Simbolo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Dirección pública</th></tr></thead>
+<thead><tr><th>Símbolo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Dirección pública</th></tr></thead>
 <tbody>
 <tr><td>BTC</td><td>14aV8dULoL67i6xQncfmFsbFaEtpRKskC2</td></tr>
 <tr><td>XCP</td><td>1BshWVmV1o4ZPWRvTGVMGsXMmQaV1qAouw</td></tr>
